@@ -5,7 +5,7 @@ O site funciona como uma Pokedéx. Ele exibe as informações dos Pokemons por g
   - Imagem
   - Número
   - Nome
-  - Tipo
+  - Tipo(s)
 
 Para obter as informações exibidas foi utilizado a API " [PokéAPI](https://pokeapi.co/).
 
@@ -15,19 +15,23 @@ O site também tem com três filtros:
 - Tipo Secundário
 
 E as informações também podem ser ordenadas:
-- menor para maior
-- maior para menor
+- Menor para maior
+- Maior para menor
 - A-Z
 - Z-A
 
 ## Tecnologias utilizadas
 **Font**
 - Bootstrap - versão 5
+
 **Back**
-- JavaScript
+- PHP
+
+**Banco de dados**
+MySql
 
 ## Telas ##
-Utilizando o filtro **Geração** "I"
+Utilizando o filtro **Geração** "II"
 ![Imagem 1](css/images/imagem1.png)
 
 Utilizando o filtro **Tipo Primário** "Inseto"
