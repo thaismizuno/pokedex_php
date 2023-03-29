@@ -1,0 +1,84 @@
+
+Atualizado - Pokemon | 2 - Ivysaur
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 2 - Ability Id: 65
+Já cadastrado  - Pokemon Ability | Pokemon ID: 2 - Ability Id: 34
+Atualizado - Pokemon | 3 - Venusaur
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 3 - Ability Id: 65
+Já cadastrado  - Pokemon Ability | Pokemon ID: 3 - Ability Id: 34
+Atualizado - Pokemon | 4 - Charmander
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 4 - Ability Id: 66
+Já cadastrado  - Pokemon Ability | Pokemon ID: 4 - Ability Id: 94
+Atualizado - Pokemon | 5 - Charmeleon
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 5 - Ability Id: 66
+Já cadastrado  - Pokemon Ability | Pokemon ID: 5 - Ability Id: 94
+Atualizado - Pokemon | 6 - Charizard
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 6 - Ability Id: 66
+Já cadastrado  - Pokemon Ability | Pokemon ID: 6 - Ability Id: 94
+Atualizado - Pokemon | 7 - Squirtle
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 7 - Ability Id: 67
+Já cadastrado  - Pokemon Ability | Pokemon ID: 7 - Ability Id: 44
+Atualizado - Pokemon | 8 - Wartortle
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 8 - Ability Id: 67
+Já cadastrado  - Pokemon Ability | Pokemon ID: 8 - Ability Id: 44
+Atualizado - Pokemon | 9 - Blastoise
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 9 - Ability Id: 67
+Já cadastrado  - Pokemon Ability | Pokemon ID: 9 - Ability Id: 44
+Atualizado - Pokemon | 10 - Caterpie
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 10 - Ability Id: 19
+Já cadastrado  - Pokemon Ability | Pokemon ID: 10 - Ability Id: 50
+Atualizado - Pokemon | 11 - Metapod
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 11 - Ability Id: 61
+Atualizado - Pokemon | 12 - Butterfree
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 12 - Ability Id: 14
+Já cadastrado  - Pokemon Ability | Pokemon ID: 12 - Ability Id: 110
+Atualizado - Pokemon | 13 - Weedle
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 13 - Ability Id: 19
+Já cadastrado  - Pokemon Ability | Pokemon ID: 13 - Ability Id: 50
+Atualizado - Pokemon | 14 - Kakuna
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 14 - Ability Id: 61
+Atualizado - Pokemon | 15 - Beedrill
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 15 - Ability Id: 68
+Já cadastrado  - Pokemon Ability | Pokemon ID: 15 - Ability Id: 97
+Atualizado - Pokemon | 16 - Pidgey
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 16 - Ability Id: 51
+Já cadastrado  - Pokemon Ability | Pokemon ID: 16 - Ability Id: 77
+Já cadastrado  - Pokemon Ability | Pokemon ID: 16 - Ability Id: 145
+Atualizado - Pokemon | 17 - Pidgeotto
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 17 - Ability Id: 51
+Já cadastrado  - Pokemon Ability | Pokemon ID: 17 - Ability Id: 77
+Já cadastrado  - Pokemon Ability | Pokemon ID: 17 - Ability Id: 145
+Atualizado - Pokemon | 18 - Pidgeot
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 18 - Ability Id: 51
+Já cadastrado  - Pokemon Ability | Pokemon ID: 18 - Ability Id: 77
+Já cadastrado  - Pokemon Ability | Pokemon ID: 18 - Ability Id: 145
+Atualizado - Pokemon | 19 - Rattata
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 19 - Ability Id: 50
+Já cadastrado  - Pokemon Ability | Pokemon ID: 19 - Ability Id: 62
+Já cadastrado  - Pokemon Ability | Pokemon ID: 19 - Ability Id: 55
+Atualizado - Pokemon | 20 - Raticate
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 20 - Ability Id: 50
+Já cadastrado  - Pokemon Ability | Pokemon ID: 20 - Ability Id: 62
+Já cadastrado  - Pokemon Ability | Pokemon ID: 20 - Ability Id: 55
+Atualizado - Pokemon | 21 - Spearow
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 21 - Ability Id: 51
+Já cadastrado  - Pokemon Ability | Pokemon ID: 21 - Ability Id: 97

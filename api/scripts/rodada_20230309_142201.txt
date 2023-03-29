@@ -1,0 +1,48 @@
+Atualizado - Pokemon | 1001 - Wo-chien
+
+Atualizado - Pokemon Ability | Pokemon ID: 1001 - Ability Id: 286 - Is True: 0
+Atualizado - Pokemon Ability | Pokemon ID: 1001 - Ability Id: 286 - Is True: 1
+
+Atualizado - Pokemon Stat | Pokemon ID: 1001 - Stat ID: 1 - Base Stat: 85 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 1001 - Stat ID: 2 - Base Stat: 85 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 1001 - Stat ID: 3 - Base Stat: 100 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 1001 - Stat ID: 4 - Base Stat: 95 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 1001 - Stat ID: 5 - Base Stat: 135 - Effort: 3
+Atualizado - Pokemon Stat | Pokemon ID: 1001 - Stat ID: 6 - Base Stat: 70 - Effort: 0
+
+Já cadastrado  - Pokemon Color | Pokemon ID: 1001 - Color ID: 3
+
+
+Já cadastrado  - Pokemon Generation | Pokemon ID: 1001 - Generation ID: 9
+
+Erro ao cadastrar - Pokemon Habitat | Pokemon ID: 1001 - Habitat ID: 0
+
+Já cadastrado  - Pokemon Shape | Pokemon ID: 1001 - Shape ID: 0
+
+
+-------------------------
+
+Atualizado - Pokemon | 1002 - Chien-pao
+
+Atualizado - Pokemon Ability | Pokemon ID: 1002 - Ability Id: 285 - Is True: 0
+Atualizado - Pokemon Ability | Pokemon ID: 1002 - Ability Id: 285 - Is True: 1
+
+Atualizado - Pokemon Stat | Pokemon ID: 1002 - Stat ID: 1 - Base Stat: 80 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 1002 - Stat ID: 2 - Base Stat: 120 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 1002 - Stat ID: 3 - Base Stat: 80 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 1002 - Stat ID: 4 - Base Stat: 90 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 1002 - Stat ID: 5 - Base Stat: 65 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 1002 - Stat ID: 6 - Base Stat: 135 - Effort: 3
+
+Já cadastrado  - Pokemon Color | Pokemon ID: 1002 - Color ID: 9
+
+
+Já cadastrado  - Pokemon Generation | Pokemon ID: 1002 - Generation ID: 9
+
+Erro ao cadastrar - Pokemon Habitat | Pokemon ID: 1002 - Habitat ID: 0
+
+Já cadastrado  - Pokemon Shape | Pokemon ID: 1002 - Shape ID: 0
+
+
+-------------------------
+

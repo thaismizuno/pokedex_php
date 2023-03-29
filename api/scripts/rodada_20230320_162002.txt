@@ -1,0 +1,454 @@
+Cadastrado - Ability | 1 - Stench - Fedor
+Cadastrado - Ability | 2 - Drizzle - Chuvisco
+Cadastrado - Ability | 3 - Speed-boost - Acelerador
+Cadastrado - Ability | 4 - Battle-armor - Armadura de Batalha
+Cadastrado - Ability | 5 - Sturdy - Resistência
+Cadastrado - Ability | 6 - Damp - Umidade
+Cadastrado - Ability | 7 - Limber - Flexibilidade
+Cadastrado - Ability | 8 - Sand-veil - Véu de Areia
+Cadastrado - Ability | 9 - Static - Estática
+Cadastrado - Ability | 10 - Volt-absorb - Absorve-Volts
+Cadastrado - Ability | 11 - Water-absorb - Absorve-Água
+Cadastrado - Ability | 12 - Oblivious - Inconsciência
+Cadastrado - Ability | 13 - Cloud-nine - Nuvem Nove
+Cadastrado - Ability | 14 - Compound-eyes - Olhos Compostos
+Cadastrado - Ability | 15 - Insomnia - Insônia
+Cadastrado - Ability | 16 - Color-change - Mudança de Cor
+Cadastrado - Ability | 17 - Immunity - Imunidade
+Cadastrado - Ability | 18 - Flash-fire - Fogo Recebido
+Cadastrado - Ability | 19 - Shield-dust - Escudo de Poeira
+Cadastrado - Ability | 20 - Own-tempo - Ritmo Próprio
+Cadastrado - Ability | 21 - Suction-cups - Ventosas
+Cadastrado - Ability | 22 - Intimidate - Intimidar
+Cadastrado - Ability | 23 - Shadow-tag - Etiqueta Sombria
+Cadastrado - Ability | 24 - Rough-skin - Pele Áspera
+Cadastrado - Ability | 25 - Wonder-guard - Guarda Maravilhosa
+Cadastrado - Ability | 26 - Levitate - Levitação
+Cadastrado - Ability | 27 - Effect-spore - Efeito Espora
+Cadastrado - Ability | 28 - Synchronize - Sincronismo
+Cadastrado - Ability | 29 - Clear-body - Corpo Limpo
+Cadastrado - Ability | 30 - Natural-cure - Cura Natura
+Cadastrado - Ability | 31 - Lightning-rod - Vara-Relâmpago
+Cadastrado - Ability | 32 - Serene-grace - Graça Serena
+Cadastrado - Ability | 33 - Swift-swim - Nado Rápido
+Cadastrado - Ability | 34 - Chlorophyll - Clorofila
+Cadastrado - Ability | 35 - Illuminate - Iluminar
+Cadastrado - Ability | 36 - Trace - Rastro
+Cadastrado - Ability | 37 - Huge-power - Poder Imenso
+Cadastrado - Ability | 38 - Poison-point - Ponto de Veneno
+Cadastrado - Ability | 39 - Inner-focus - Concentração Interna
+Cadastrado - Ability | 40 - Magma-armor - Armadura de Magm
+Cadastrado - Ability | 41 - Water-veil - Véu de Água
+Cadastrado - Ability | 42 - Magnet-pull - Magnetismo
+Cadastrado - Ability | 43 - Soundproof - Insonorização
+Cadastrado - Ability | 44 - Rain-dish - Chuva do Desejo
+Cadastrado - Ability | 45 - Sand-stream - Córrego de Areia
+Cadastrado - Ability | 46 - Pressure - Pressão
+Cadastrado - Ability | 47 - Thick-fat - Gordura Espessa
+Cadastrado - Ability | 48 - Early-bird - Passáro Precoce
+Cadastrado - Ability | 49 - Flame-body - Corpo em Chamas
+Cadastrado - Ability | 50 - Run-away - Fuga
+Cadastrado - Ability | 51 - Keen-eye - Olho Entusiasmado
+Cadastrado - Ability | 52 - Hyper-cutter - Hiper Cortador
+Cadastrado - Ability | 53 - Pickup - Capturar
+Cadastrado - Ability | 54 - Truant - Preguiça
+Cadastrado - Ability | 55 - Hustle - Entusiasmo
+Cadastrado - Ability | 56 - Cute-charm - Charme Gracioso
+Cadastrado - Ability | 57 - Plus - Mais
+Cadastrado - Ability | 58 - Minus - Menos
+Cadastrado - Ability | 59 - Forecast - Previsão do Tempo
+Cadastrado - Ability | 60 - Sticky-hold - Viscosidade
+Cadastrado - Ability | 61 - Shed-skin - Pele vertente
+Cadastrado - Ability | 62 - Guts - Músculos
+Cadastrado - Ability | 63 - Marvel-scale - Escama Maravilha
+Cadastrado - Ability | 64 - Liquid-ooze - Lodo Líquido
+Cadastrado - Ability | 65 - Overgrow - Super Crescimento
+Cadastrado - Ability | 66 - Blaze - Incêndio
+Cadastrado - Ability | 67 - Torrent - Dilúvi
+Cadastrado - Ability | 68 - Swarm - Enxame
+Cadastrado - Ability | 69 - Rock-head - Cabeça de Pedra
+Cadastrado - Ability | 70 - Drought - Seca/Calor Desértico
+Cadastrado - Ability | 71 - Arena-trap - Arena-Armadilha
+Cadastrado - Ability | 72 - Vital-spirit - Espírito Vital
+Cadastrado - Ability | 73 - White-smoke - Fumo Branco
+Cadastrado - Ability | 74 - Pure-power - Poder Puro
+Cadastrado - Ability | 75 - Shell-armor - Armadura de Concha
+Cadastrado - Ability | 76 - Air-lock - Bloqueio Aéreo
+Cadastrado - Ability | 77 - Tangled-feet - Pés Laçados
+Cadastrado - Ability | 78 - Motor-drive - Impulso Motor
+Cadastrado - Ability | 79 - Rivalry - Rivalidade
+Cadastrado - Ability | 80 - Steadfast - Inabalável
+Cadastrado - Ability | 81 - Snow-cloak - Capa de Neve
+Cadastrado - Ability | 82 - Gluttony - Gulodice
+Cadastrado - Ability | 83 - Anger-point - Ponto de Raiva
+Cadastrado - Ability | 84 - Unburden - Sem Peso
+Cadastrado - Ability | 85 - Heatproof - À Prova de Calor
+Cadastrado - Ability | 86 - Simple - Simplificar
+Cadastrado - Ability | 87 - Dry-skin - Pele Seca
+Cadastrado - Ability | 88 - Download - Descarga
+Cadastrado - Ability | 89 - Iron-fist - Punho de Ferro
+Cadastrado - Ability | 90 - Poison-heal - Antídoto
+Cadastrado - Ability | 91 - Adaptability - Adaptabilidade
+Cadastrado - Ability | 92 - Skill-link - Liga Habilidade
+Cadastrado - Ability | 93 - Hydration - Hidratação
+Cadastrado - Ability | 94 - Solar-power - Poder Solar
+Cadastrado - Ability | 95 - Quick-feet - Pés Rápidos
+Cadastrado - Ability | 96 - Normalize - Normalidade
+Cadastrado - Ability | 97 - Sniper - Franco-Atirador
+Cadastrado - Ability | 98 - Magic-guard - Escudo Mágico
+Cadastrado - Ability | 99 - No-guard - Sem Proteção
+Cadastrado - Ability | 100 - Stall - Adiar
+Cadastrado - Ability | 101 - Technician - Técnico
+Cadastrado - Ability | 102 - Leaf-guard - Guarda Folha
+Cadastrado - Ability | 103 - Klutz - Grosseria
+Cadastrado - Ability | 104 - Mold-breaker - Destruidor de Molde
+Cadastrado - Ability | 105 - Super-luck - Supersorte
+Cadastrado - Ability | 106 - Aftermath - Consequência
+Cadastrado - Ability | 107 - Anticipation - Antecipação
+Cadastrado - Ability | 108 - Forewarn - Profecia
+Cadastrado - Ability | 109 - Unaware - Ignorante
+Cadastrado - Ability | 110 - Tinted-lens - Olhos Escuros
+Cadastrado - Ability | 111 - Filter - Filtragem
+Cadastrado - Ability | 112 - Slow-start - Começo Lento
+Cadastrado - Ability | 113 - Scrappy - Transparência
+Cadastrado - Ability | 114 - Storm-drain - Drena-Tempestades
+Cadastrado - Ability | 115 - Ice-body - Corpo de Gelo
+Cadastrado - Ability | 116 - Solid-rock - Rocha Sólida
+Cadastrado - Ability | 117 - Snow-warning - Alerta de Neve
+Cadastrado - Ability | 118 - Honey-gather - Pegar Mel
+Cadastrado - Ability | 119 - Frisk - Bisbilhotar
+Cadastrado - Ability | 120 - Reckless - Imprudência
+Cadastrado - Ability | 121 - Multitype - Multitipo
+Cadastrado - Ability | 122 - Flower-gift - Presente da Flor
+Cadastrado - Ability | 123 - Bad-dreams - Pesadelos
+Cadastrado - Ability | 124 - Pickpocket - Furto
+Cadastrado - Ability | 125 - Sheer-force - Força Absoluta
+Cadastrado - Ability | 126 - Contrary - Contrário
+Cadastrado - Ability | 127 - Unnerve - Enervar
+Cadastrado - Ability | 128 - Defiant - Desafiante
+Cadastrado - Ability | 129 - Defeatist - Derrotável
+Cadastrado - Ability | 130 - Cursed-body - Corpo Amaldiçoado
+Cadastrado - Ability | 131 - Healer - Cura
+Cadastrado - Ability | 132 - Friend-guard - Proteção Amiga
+Cadastrado - Ability | 133 - Weak-armor - Armadura Fraca
+Cadastrado - Ability | 134 - Heavy-metal - Metal Pesado
+Cadastrado - Ability | 135 - Light-metal - Metal Leve
+Cadastrado - Ability | 136 - Multiscale - Multiescamas
+Cadastrado - Ability | 137 - Toxic-boost - Impulso Tóxico
+Cadastrado - Ability | 138 - Flare-boost - Impulso Ardente
+Cadastrado - Ability | 139 - Harvest - Colheita
+Cadastrado - Ability | 140 - Telepathy - Telepatia
+Cadastrado - Ability | 141 - Moody - Mal-Humor
+Cadastrado - Ability | 142 - Overcoat - Sobrecasaco
+Cadastrado - Ability | 143 - Poison-touch - Toque Venenoso
+Cadastrado - Ability | 144 - Regenerator - Regeneração
+Cadastrado - Ability | 145 - Big-pecks - Beijinhos
+Cadastrado - Ability | 146 - Sand-rush - Ímpeto Areia
+Cadastrado - Ability | 147 - Wonder-skin - Pele Maravilha
+Cadastrado - Ability | 148 - Analytic - Analítico
+Cadastrado - Ability | 149 - Illusion - Ilusão
+Cadastrado - Ability | 150 - Imposter - Impostor
+Cadastrado - Ability | 151 - Infiltrator - Infiltrado
+Cadastrado - Ability | 152 - Mummy - Múmia
+Cadastrado - Ability | 153 - Moxie - Arrogância
+Cadastrado - Ability | 154 - Justified - Justiceiro
+Cadastrado - Ability | 155 - Rattled - Covardia
+Cadastrado - Ability | 156 - Magic-bounce - Reflexo Mágico
+Cadastrado - Ability | 157 - Sap-sipper - Engolidor de Seiva
+Cadastrado - Ability | 158 - Prankster - Travessura
+Cadastrado - Ability | 159 - Sand-force - Força da Areia
+Cadastrado - Ability | 160 - Iron-barbs - Espinhos de Ferro
+Cadastrado - Ability | 161 - Zen-mode - Modo Zen
+Cadastrado - Ability | 162 - Victory-star - Estrela da Vitória
+Cadastrado - Ability | 163 - Turboblaze - Turbochama
+Cadastrado - Ability | 164 - Teravolt - Teravoltagem
+Cadastrado - Ability | 165 - Aroma-veil - Véu Vromático
+Cadastrado - Ability | 166 - Flower-veil - Véu de Flores
+Cadastrado - Ability | 167 - Cheek-pouch - Bolsa de Bochecha
+Cadastrado - Ability | 168 - Protean - Mutatipo
+Cadastrado - Ability | 169 - Fur-coat - Camada de Pelos
+Cadastrado - Ability | 170 - Magician - Mago
+Cadastrado - Ability | 171 - Bulletproof - À prova de balas
+Cadastrado - Ability | 172 - Competitive - Competitivo
+Cadastrado - Ability | 173 - Strong-jaw - Mandíbula Forte
+Cadastrado - Ability | 174 - Refrigerate - Refrigeração
+Cadastrado - Ability | 175 - Sweet-veil - Véu Doce
+Cadastrado - Ability | 176 - Stance-change - Mudança em Posição
+Cadastrado - Ability | 177 - Gale-wings - Asas de Vendaval
+Cadastrado - Ability | 178 - Mega-launcher - Megalançamento
+Cadastrado - Ability | 179 - Grass-pelt - Pele de Grama
+Cadastrado - Ability | 180 - Symbiosis - Simbiose
+Cadastrado - Ability | 181 - Tough-claws - Garra Dura
+Cadastrado - Ability | 182 - Pixilate - Pele de Fada
+Cadastrado - Ability | 183 - Gooey - Pegajoso
+Cadastrado - Ability | 184 - Aerilate - Arejar
+Cadastrado - Ability | 185 - Parental-bond - Vínculo Parental
+Cadastrado - Ability | 186 - Dark-aura - Aura Negra
+Cadastrado - Ability | 187 - Fairy-aura - Aura de Fada
+Cadastrado - Ability | 188 - Aura-break - Quebra de aura
+Cadastrado - Ability | 189 - Primordial-sea - Mar Primordial
+Cadastrado - Ability | 190 - Desolate-land - Área Desolada
+Cadastrado - Ability | 191 - Delta-stream - Corrente Delta
+Cadastrado - Ability | 192 - Stamina - Stamina
+Cadastrado - Ability | 193 - Wimp-out - Amarelar
+Cadastrado - Ability | 194 - Emergency-exit - Saída de Emergência
+Cadastrado - Ability | 195 - Water-compaction - Compactação de Água
+Cadastrado - Ability | 196 - Merciless - Impiedoso
+Cadastrado - Ability | 197 - Shields-down - Escudos Abaixados
+Cadastrado - Ability | 198 - Stakeout - Tocaia
+Cadastrado - Ability | 199 - Water-bubble - Bolha de Água
+Cadastrado - Ability | 200 - Steelworker - Trabalhador de Aço
+Cadastrado - Ability | 201 - Berserk - Furioso
+Cadastrado - Ability | 202 - Slush-rush - Limpa-Neves
+Cadastrado - Ability | 203 - Long-reach - Longo Alcance
+Cadastrado - Ability | 204 - Liquid-voice - Voz Fluida
+Cadastrado - Ability | 205 - Triage - Triagem
+Cadastrado - Ability | 206 - Galvanize - Galvanizar
+Cadastrado - Ability | 207 - Surge-surfer - Cauda Surfista
+Cadastrado - Ability | 208 - Schooling - Cardume
+Cadastrado - Ability | 209 - Disguise - Disfarce
+Cadastrado - Ability | 210 - Battle-bond - Laço de Batalha
+Cadastrado - Ability | 211 - Power-construct - Construção de Poder
+Cadastrado - Ability | 212 - Corrosion - Corrosão
+Cadastrado - Ability | 213 - Comatose - Em Coma
+Cadastrado - Ability | 214 - Queenly-majesty - Presença Régia
+Cadastrado - Ability | 215 - Innards-out - Extensão de Vísceras
+Cadastrado - Ability | 216 - Dancer - Dançarino
+Cadastrado - Ability | 217 - Battery - Bateria
+Cadastrado - Ability | 218 - Fluffy - Macio
+Cadastrado - Ability | 219 - Dazzling - Ofuscante
+Cadastrado - Ability | 220 - Soul-heart - Coralma
+Cadastrado - Ability | 221 - Tangling-hair - Cabelo Desgrenhado
+Cadastrado - Ability | 222 - Receiver - Receptor
+Cadastrado - Ability | 223 - Power-of-alchemy - Poder de Alquimia
+Cadastrado - Ability | 224 - Beast-boost - Impulso de Besta
+Cadastrado - Ability | 225 - Rks-system - Sistema RKS
+Cadastrado - Ability | 226 - Electric-surge - Eletrogênese
+Cadastrado - Ability | 227 - Psychic-surge - Onda Psíquica
+Cadastrado - Ability | 228 - Misty-surge - Onda de Névoa
+Cadastrado - Ability | 229 - Grassy-surge - Onda Gramínea
+Cadastrado - Ability | 230 - Full-metal-body - Corpo Metálico
+Cadastrado - Ability | 231 - Shadow-shield - Escudo Sombrio
+Cadastrado - Ability | 232 - Prism-armor - Armadura de Prisma
+Cadastrado - Ability | 233 - Neuroforce - Neuroforça
+Cadastrado - Ability | 234 - Intrepid-sword - Espada Intrépida
+Cadastrado - Ability | 235 - Dauntless-shield - Escudo Destemido
+Cadastrado - Ability | 236 - Libero - Líbero
+Cadastrado - Ability | 237 - Ball-fetch - Pegar Bola
+Cadastrado - Ability | 238 - Cotton-down - Penugem de Algodão
+Cadastrado - Ability | 239 - Propeller-tail - Hélice de Cauda
+Cadastrado - Ability | 240 - Mirror-armor - Armadura Espelhada
+Cadastrado - Ability | 241 - Gulp-missile - Míssil de Gole
+Cadastrado - Ability | 242 - Stalwart - Robusto
+Cadastrado - Ability | 243 - Steam-engine - Motor à Vapor
+Cadastrado - Ability | 244 - Punk-rock - Punk Rock
+Cadastrado - Ability | 245 - Sand-spit - Cuspe de Areia
+Cadastrado - Ability | 246 - Ice-scales - Escamas de Gelo
+Cadastrado - Ability | 247 - Ripen - Maturação
+Cadastrado - Ability | 248 - Ice-face - Face de Gelo
+Cadastrado - Ability | 249 - Power-spot - Fonte de Energia
+Cadastrado - Ability | 250 - Mimicry - Mimetismo
+Cadastrado - Ability | 251 - Screen-cleaner - Limpa-Vidro
+Cadastrado - Ability | 252 - Steely-spirit - Espírito Férreo
+Cadastrado - Ability | 253 - Perish-body - Corpo Perecido
+Cadastrado - Ability | 254 - Wandering-spirit - Espírito Errante
+Cadastrado - Ability | 255 - Gorilla-tactics - Táticas de Gorila
+Cadastrado - Ability | 256 - Neutralizing-gas - Gás Neutralizador
+Cadastrado - Ability | 257 - Pastel-veil - Véu de Tons Pastéis
+Cadastrado - Ability | 258 - Hunger-switch - Troca da Fome
+Cadastrado - Ability | 259 - Quick-draw - Movimento Rápido
+Cadastrado - Ability | 260 - Unseen-fist - Punho Invisível
+Cadastrado - Ability | 261 - Curious-medicine - Medicina Curiosa
+Cadastrado - Ability | 262 - Transistor - Transistor
+Cadastrado - Ability | 263 - Dragons-maw - Boca de Dragão
+Cadastrado - Ability | 264 - Chilling-neigh - Relincho Arrepiante
+Cadastrado - Ability | 265 - Grim-neigh - Relincho Cruel
+Cadastrado - Ability | 266 - As-one-glastrier - Como um Vidraceiro
+Cadastrado - Ability | 267 - As-one-spectrier - Como um Espectro
+Cadastrado - Ability | 268 - Lingering-aroma - Aroma Persistente
+Cadastrado - Ability | 269 - Seed-sower - Semeador de Sementes
+Cadastrado - Ability | 270 - Thermal-exchange - Câmbio Termal
+Cadastrado - Ability | 271 - Anger-shell - Casca de Raiva
+Cadastrado - Ability | 272 - Purifying-salt - Sal Purificador
+Cadastrado - Ability | 273 - Well-baked-body - Corpo Bem Assado
+Cadastrado - Ability | 274 - Wind-rider - Cavaleiro do Vento
+Cadastrado - Ability | 275 - Guard-dog - Cão de Guarda
+Cadastrado - Ability | 276 - Rocky-payload - Carga Rochosa
+Cadastrado - Ability | 277 - Wind-power - Força do Vento
+Cadastrado - Ability | 278 - Zero-to-hero - De Zero a Herói
+Cadastrado - Ability | 279 - Commander - Comandante
+Cadastrado - Ability | 280 - Electromorphosis - Eletromorfose
+Cadastrado - Ability | 281 - Protosynthesis - Protossíntese
+Cadastrado - Ability | 282 - Quark-drive - Condução de Quarks
+Cadastrado - Ability | 283 - Good-as-gold - Bom como ouro
+Cadastrado - Ability | 284 - Vessel-of-ruin - Embarcação da Ruína
+Cadastrado - Ability | 285 - Sword-of-ruin - Espada da Ruína
+Cadastrado - Ability | 286 - Tablets-of-ruin - Tábuas da Ruína
+Cadastrado - Ability | 287 - Beads-of-ruin - Contas de ruína
+Cadastrado - Ability | 288 - Orichalcum-pulse - Pulso de Oricalco
+Cadastrado - Ability | 289 - Hadron-engine - Motor de Hádrons
+Cadastrado - Ability | 290 - Opportunist - Oportunista
+Cadastrado - Ability | 291 - Cud-chew - Mastigar
+Cadastrado - Ability | 292 - Sharpness - Agudeza
+Cadastrado - Ability | 293 - Supreme-overlord - Soberano Supremo
+Cadastrado - Ability | 294 - Costar - Co-estrela
+Cadastrado - Ability | 295 - Toxic-debris - Destroços Tóxicos
+Cadastrado - Ability | 296 - Armor-tail - Cauda de armadura
+Cadastrado - Ability | 297 - Earth-eater - Comedor de Terra
+Cadastrado - Ability | 298 - Mycelium-might - Força de Micélio
+Cadastrado - Ability | 10001 - Mountaineer - Alpinista
+Cadastrado - Ability | 10002 - Wave-rider - Cavaleiro da onda
+Cadastrado - Ability | 10003 - Skater - Skatista
+Cadastrado - Ability | 10004 - Thrust - Empuxo
+Cadastrado - Ability | 10005 - Perception - Percepção
+Cadastrado - Ability | 10006 - Parry - Desviar-se
+Cadastrado - Ability | 10007 - Instinct - Instinto
+Cadastrado - Ability | 10008 - Dodge - Desviar
+Cadastrado - Ability | 10009 - Jagged-edge - Borda irregular
+Cadastrado - Ability | 10010 - Frostbite - Queimadura por frio
+Cadastrado - Ability | 10011 - Tenacity - Tenacidade
+Cadastrado - Ability | 10012 - Pride - Orgulho
+Cadastrado - Ability | 10013 - Deep-sleep - Sono profundo
+Cadastrado - Ability | 10014 - Power-nap - Cochilo rápido
+Cadastrado - Ability | 10015 - Spirit - Espírito
+Cadastrado - Ability | 10016 - Warm-blanket - Cobertor quente
+Cadastrado - Ability | 10017 - Gulp - Gole
+Cadastrado - Ability | 10018 - Herbivore - Herbívoro
+Cadastrado - Ability | 10019 - Sandpit - Caixa de areia
+Cadastrado - Ability | 10020 - Hot-blooded - Sangue quente
+Cadastrado - Ability | 10021 - Medic - Médico
+Cadastrado - Ability | 10022 - Life-force - Força vital
+Cadastrado - Ability | 10023 - Lunchbox - Lancheira
+Cadastrado - Ability | 10024 - Nurse - Enfermeira
+Cadastrado - Ability | 10025 - Melee - Corpo a corpo
+Cadastrado - Ability | 10026 - Sponge - Esponja
+Cadastrado - Ability | 10027 - Bodyguard - Guarda-costas
+Cadastrado - Ability | 10028 - Hero - Herói
+Cadastrado - Ability | 10029 - Last-bastion - último bastião
+Cadastrado - Ability | 10030 - Stealth - Furtivo
+Cadastrado - Ability | 10031 - Vanguard - Vanguarda
+Cadastrado - Ability | 10032 - Nomad - Nômade
+Cadastrado - Ability | 10033 - Sequence - Sequência
+Cadastrado - Ability | 10034 - Grass-cloak - Manto de grama
+Cadastrado - Ability | 10035 - Celebrate - Celebrate
+Cadastrado - Ability | 10036 - Lullaby - Canção de ninar
+Cadastrado - Ability | 10037 - Calming - Calmante
+Cadastrado - Ability | 10038 - Daze - Torpor
+Cadastrado - Ability | 10039 - Frighten - Assustar
+Cadastrado - Ability | 10040 - Interference - Interferência
+Cadastrado - Ability | 10041 - Mood-maker - Criador de humor
+Cadastrado - Ability | 10042 - Confidence - Confiança
+Cadastrado - Ability | 10043 - Fortune - Fortuna
+Cadastrado - Ability | 10044 - Bonanza - Bonança
+Cadastrado - Ability | 10045 - Explode - Explodir
+Cadastrado - Ability | 10046 - Omnipotent - Onipotente
+Cadastrado - Ability | 10047 - Share - Compartilhar
+Cadastrado - Ability | 10048 - Black-hole - Buraco negro
+Cadastrado - Ability | 10049 - Shadow-dash - Traço de sombra
+Cadastrado - Ability | 10050 - Sprint - Corrida
+Cadastrado - Ability | 10051 - Disgust - Desgosto
+Cadastrado - Ability | 10052 - High-rise - Arranha-céus
+Cadastrado - Ability | 10053 - Climber - Alpinista
+Cadastrado - Ability | 10054 - Flame-boost - Impulso de chama
+Cadastrado - Ability | 10055 - Aqua-boost - Impulso aquático
+Cadastrado - Ability | 10056 - Run-up - Correr
+Cadastrado - Ability | 10057 - Conqueror - Conquistador
+Cadastrado - Ability | 10058 - Shackle - Manilha
+Cadastrado - Ability | 10059 - Decoy - Chamariz
+Cadastrado - Ability | 10060 - Shield - Escudo
+
+Cadastrado - Color | 1 - black
+Cadastrado - Color | 2 - blue
+Cadastrado - Color | 3 - brown
+Cadastrado - Color | 4 - gray
+Cadastrado - Color | 5 - green
+Cadastrado - Color | 6 - pink
+Cadastrado - Color | 7 - purple
+Cadastrado - Color | 8 - red
+Cadastrado - Color | 9 - white
+Cadastrado - Color | 10 - yellow
+
+Cadastrado - EggGroup | 1 - monster - Monstro
+Cadastrado - EggGroup | 2 - water1 - Água - Tipo 1
+Cadastrado - EggGroup | 3 - bug - Inseto
+Cadastrado - EggGroup | 4 - flying - Voador
+Cadastrado - EggGroup | 5 - ground - Terrestre
+Cadastrado - EggGroup | 6 - fairy - Fada
+Cadastrado - EggGroup | 7 - plant - Planta
+Cadastrado - EggGroup | 8 - humanshape - Forma Humana
+Cadastrado - EggGroup | 9 - water3 - Água - Tipo 3
+Cadastrado - EggGroup | 10 - mineral - Mineral
+Cadastrado - EggGroup | 11 - indeterminate - indeterminado
+Cadastrado - EggGroup | 12 - water2 - Água - Tipo 2
+Cadastrado - EggGroup | 13 - ditto - Idem
+Cadastrado - EggGroup | 14 - dragon - Dragão
+Cadastrado - EggGroup | 15 - no-eggs - Sem Ovos
+
+Cadastrado - Gender | Id: 1 - female - Feminino
+Cadastrado - Gender | Id: 2 - male - Masculino
+Cadastrado - Gender | Id: 3 - genderless - Sem Gênero
+
+Cadastrado - Generation | Generation ID: 1 - Generation Nome: I
+Cadastrado - Generation | Generation ID: 2 - Generation Nome: II
+Cadastrado - Generation | Generation ID: 3 - Generation Nome: III
+Cadastrado - Generation | Generation ID: 4 - Generation Nome: IV
+Cadastrado - Generation | Generation ID: 5 - Generation Nome: V
+Cadastrado - Generation | Generation ID: 6 - Generation Nome: VI
+Cadastrado - Generation | Generation ID: 7 - Generation Nome: VII
+Cadastrado - Generation | Generation ID: 8 - Generation Nome: VIII
+Cadastrado - Generation | Generation ID: 9 - Generation Nome: IX
+
+Cadastrado - Habitat | 1 - cave - Caverna
+Cadastrado - Habitat | 2 - forest - Floresta
+Cadastrado - Habitat | 3 - grassland - Pastagem
+Cadastrado - Habitat | 4 - mountain - Montanha
+Cadastrado - Habitat | 5 - rare - Cru
+Cadastrado - Habitat | 6 - rough-terrain - Terreno acidentado
+Cadastrado - Habitat | 7 - sea - Mar
+Cadastrado - Habitat | 8 - urban - Urbano
+Cadastrado - Habitat | 9 - waters-edge - Beira da água
+
+Cadastrado - Shape | 1 - ball - Bola
+Cadastrado - Shape | 2 - squiggle - Rabisco
+Cadastrado - Shape | 3 - fish - Peixe
+Cadastrado - Shape | 4 - arms - Braços
+Cadastrado - Shape | 5 - blob - Bolha
+Cadastrado - Shape | 6 - upright - Ereto
+Cadastrado - Shape | 7 - legs - Pernas
+Cadastrado - Shape | 8 - quadruped - Quadrúpede
+Cadastrado - Shape | 9 - wings - Asas
+Cadastrado - Shape | 10 - tentacles - Tentáculos
+Cadastrado - Shape | 11 - heads - Cabeças
+Cadastrado - Shape | 12 - humanoid - Humanóide
+Cadastrado - Shape | 13 - bug-wings - Asas de insetos
+Cadastrado - Shape | 14 - armor - Armaduras
+
+Cadastrado - Stat | 1 - hp - Pontos de Vida
+Cadastrado - Stat | 2 - attack - Ataque
+Cadastrado - Stat | 3 - defense - Defesa
+Cadastrado - Stat | 4 - special-attack - Ataque Especial
+Cadastrado - Stat | 5 - special-defense - Defesa Especial
+Cadastrado - Stat | 6 - speed - Velocidade
+Cadastrado - Stat | 7 - accuracy - Precisão
+Cadastrado - Stat | 8 - evasion - evasão
+
+Cadastrado - Type | 1 - normal - Normal
+Cadastrado - Type | 2 - fighting - Lutador
+Cadastrado - Type | 3 - flying - Voador
+Cadastrado - Type | 4 - poison - Venenoso
+Cadastrado - Type | 5 - ground - Terrestre
+Cadastrado - Type | 6 - rock - Pedra
+Cadastrado - Type | 7 - bug - Inseto
+Cadastrado - Type | 8 - ghost - Fantasma
+Cadastrado - Type | 9 - steel - Metálico
+Cadastrado - Type | 10 - fire - Fogo
+Cadastrado - Type | 11 - water - Água
+Cadastrado - Type | 12 - grass - Planta
+Cadastrado - Type | 13 - electric - Elétrico
+Cadastrado - Type | 14 - psychic - Psíquico
+Cadastrado - Type | 15 - ice - Gelo
+Cadastrado - Type | 16 - dragon - Dragão
+Cadastrado - Type | 17 - dark - Sombrio
+Cadastrado - Type | 18 - fairy - Fada
+Cadastrado - Type | 10001 - unknown - Desconhecido
+Cadastrado - Type | 10002 - shadow - Sombra

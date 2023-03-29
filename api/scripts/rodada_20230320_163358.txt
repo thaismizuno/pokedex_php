@@ -1,0 +1,41 @@
+
+Atualizado - Pokemon | 2 - Ivysaur
+
+Cadastrado - Pokemon | 3 - Venusaur
+
+Cadastrado - Pokemon | 4 - Charmander
+
+Cadastrado - Pokemon | 5 - Charmeleon
+
+Cadastrado - Pokemon | 6 - Charizard
+
+Cadastrado - Pokemon | 7 - Squirtle
+
+Cadastrado - Pokemon | 8 - Wartortle
+
+Cadastrado - Pokemon | 9 - Blastoise
+
+Cadastrado - Pokemon | 10 - Caterpie
+
+Cadastrado - Pokemon | 11 - Metapod
+
+Cadastrado - Pokemon | 12 - Butterfree
+
+Cadastrado - Pokemon | 13 - Weedle
+
+Cadastrado - Pokemon | 14 - Kakuna
+
+Cadastrado - Pokemon | 15 - Beedrill
+
+Cadastrado - Pokemon | 16 - Pidgey
+
+Cadastrado - Pokemon | 17 - Pidgeotto
+
+Cadastrado - Pokemon | 18 - Pidgeot
+
+Cadastrado - Pokemon | 19 - Rattata
+
+Cadastrado - Pokemon | 20 - Raticate
+
+Cadastrado - Pokemon | 21 - Spearow
+

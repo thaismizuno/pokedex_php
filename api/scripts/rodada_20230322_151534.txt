@@ -1,0 +1,423 @@
+
+Atualizado - Pokemon | 2 - Ivysaur
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 2 - Type ID: 12 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 2 - Type ID: 4 - Type Order: 2
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 2 - Ability Id: 65
+Já cadastrado  - Pokemon Ability | Pokemon ID: 2 - Ability Id: 34
+
+Atualizado - Pokemon Stat | Pokemon ID: 2 - Stat ID: 1 - Base Stat: 60 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 2 - Stat ID: 2 - Base Stat: 62 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 2 - Stat ID: 3 - Base Stat: 63 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 2 - Stat ID: 4 - Base Stat: 80 - Effort: 1
+Atualizado - Pokemon Stat | Pokemon ID: 2 - Stat ID: 5 - Base Stat: 80 - Effort: 1
+Atualizado - Pokemon Stat | Pokemon ID: 2 - Stat ID: 6 - Base Stat: 60 - Effort: 0
+
+Cadastrado - Pokemon Color | Pokemon ID:  - Color ID: 5
+
+Cadastrado - Pokemon Egg Groups | Pokemon ID:  - Egg Group ID: 1
+Cadastrado - Pokemon Egg Groups | Pokemon ID:  - Egg Group ID: 7
+
+Cadastrado - Pokemon Generation | Pokemon ID: 2 - Generation ID: 1
+
+Atualizado - Pokemon | 3 - Venusaur
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 3 - Type ID: 12 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 3 - Type ID: 4 - Type Order: 2
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 3 - Ability Id: 65
+Já cadastrado  - Pokemon Ability | Pokemon ID: 3 - Ability Id: 34
+
+Atualizado - Pokemon Stat | Pokemon ID: 3 - Stat ID: 1 - Base Stat: 80 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 3 - Stat ID: 2 - Base Stat: 82 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 3 - Stat ID: 3 - Base Stat: 83 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 3 - Stat ID: 4 - Base Stat: 100 - Effort: 2
+Atualizado - Pokemon Stat | Pokemon ID: 3 - Stat ID: 5 - Base Stat: 100 - Effort: 1
+Atualizado - Pokemon Stat | Pokemon ID: 3 - Stat ID: 6 - Base Stat: 80 - Effort: 0
+
+Cadastrado - Pokemon Color | Pokemon ID:  - Color ID: 5
+
+Cadastrado - Pokemon Egg Groups | Pokemon ID:  - Egg Group ID: 1
+Cadastrado - Pokemon Egg Groups | Pokemon ID:  - Egg Group ID: 7
+
+Cadastrado - Pokemon Generation | Pokemon ID: 3 - Generation ID: 1
+
+Atualizado - Pokemon | 4 - Charmander
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 4 - Type ID: 10 - Type Order: 1
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 4 - Ability Id: 66
+Já cadastrado  - Pokemon Ability | Pokemon ID: 4 - Ability Id: 94
+
+Atualizado - Pokemon Stat | Pokemon ID: 4 - Stat ID: 1 - Base Stat: 39 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 4 - Stat ID: 2 - Base Stat: 52 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 4 - Stat ID: 3 - Base Stat: 43 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 4 - Stat ID: 4 - Base Stat: 60 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 4 - Stat ID: 5 - Base Stat: 50 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 4 - Stat ID: 6 - Base Stat: 65 - Effort: 1
+
+Cadastrado - Pokemon Color | Pokemon ID:  - Color ID: 8
+
+Cadastrado - Pokemon Egg Groups | Pokemon ID:  - Egg Group ID: 1
+Cadastrado - Pokemon Egg Groups | Pokemon ID:  - Egg Group ID: 14
+
+Cadastrado - Pokemon Generation | Pokemon ID: 4 - Generation ID: 1
+
+Atualizado - Pokemon | 5 - Charmeleon
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 5 - Type ID: 10 - Type Order: 1
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 5 - Ability Id: 66
+Já cadastrado  - Pokemon Ability | Pokemon ID: 5 - Ability Id: 94
+
+Atualizado - Pokemon Stat | Pokemon ID: 5 - Stat ID: 1 - Base Stat: 58 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 5 - Stat ID: 2 - Base Stat: 64 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 5 - Stat ID: 3 - Base Stat: 58 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 5 - Stat ID: 4 - Base Stat: 80 - Effort: 1
+Atualizado - Pokemon Stat | Pokemon ID: 5 - Stat ID: 5 - Base Stat: 65 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 5 - Stat ID: 6 - Base Stat: 80 - Effort: 1
+
+Cadastrado - Pokemon Color | Pokemon ID:  - Color ID: 8
+
+Cadastrado - Pokemon Egg Groups | Pokemon ID:  - Egg Group ID: 1
+Cadastrado - Pokemon Egg Groups | Pokemon ID:  - Egg Group ID: 14
+
+Cadastrado - Pokemon Generation | Pokemon ID: 5 - Generation ID: 1
+
+Atualizado - Pokemon | 6 - Charizard
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 6 - Type ID: 10 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 6 - Type ID: 3 - Type Order: 2
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 6 - Ability Id: 66
+Já cadastrado  - Pokemon Ability | Pokemon ID: 6 - Ability Id: 94
+
+Atualizado - Pokemon Stat | Pokemon ID: 6 - Stat ID: 1 - Base Stat: 78 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 6 - Stat ID: 2 - Base Stat: 84 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 6 - Stat ID: 3 - Base Stat: 78 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 6 - Stat ID: 4 - Base Stat: 109 - Effort: 3
+Atualizado - Pokemon Stat | Pokemon ID: 6 - Stat ID: 5 - Base Stat: 85 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 6 - Stat ID: 6 - Base Stat: 100 - Effort: 0
+
+Cadastrado - Pokemon Color | Pokemon ID:  - Color ID: 8
+
+Cadastrado - Pokemon Egg Groups | Pokemon ID:  - Egg Group ID: 1
+Cadastrado - Pokemon Egg Groups | Pokemon ID:  - Egg Group ID: 14
+
+Cadastrado - Pokemon Generation | Pokemon ID: 6 - Generation ID: 1
+
+Atualizado - Pokemon | 7 - Squirtle
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 7 - Type ID: 11 - Type Order: 1
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 7 - Ability Id: 67
+Já cadastrado  - Pokemon Ability | Pokemon ID: 7 - Ability Id: 44
+
+Atualizado - Pokemon Stat | Pokemon ID: 7 - Stat ID: 1 - Base Stat: 44 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 7 - Stat ID: 2 - Base Stat: 48 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 7 - Stat ID: 3 - Base Stat: 65 - Effort: 1
+Atualizado - Pokemon Stat | Pokemon ID: 7 - Stat ID: 4 - Base Stat: 50 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 7 - Stat ID: 5 - Base Stat: 64 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 7 - Stat ID: 6 - Base Stat: 43 - Effort: 0
+
+Cadastrado - Pokemon Color | Pokemon ID:  - Color ID: 2
+
+Cadastrado - Pokemon Egg Groups | Pokemon ID:  - Egg Group ID: 1
+Cadastrado - Pokemon Egg Groups | Pokemon ID:  - Egg Group ID: 2
+
+Cadastrado - Pokemon Generation | Pokemon ID: 7 - Generation ID: 1
+
+Atualizado - Pokemon | 8 - Wartortle
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 8 - Type ID: 11 - Type Order: 1
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 8 - Ability Id: 67
+Já cadastrado  - Pokemon Ability | Pokemon ID: 8 - Ability Id: 44
+
+Atualizado - Pokemon Stat | Pokemon ID: 8 - Stat ID: 1 - Base Stat: 59 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 8 - Stat ID: 2 - Base Stat: 63 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 8 - Stat ID: 3 - Base Stat: 80 - Effort: 1
+Atualizado - Pokemon Stat | Pokemon ID: 8 - Stat ID: 4 - Base Stat: 65 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 8 - Stat ID: 5 - Base Stat: 80 - Effort: 1
+Atualizado - Pokemon Stat | Pokemon ID: 8 - Stat ID: 6 - Base Stat: 58 - Effort: 0
+
+Cadastrado - Pokemon Color | Pokemon ID:  - Color ID: 2
+
+Cadastrado - Pokemon Egg Groups | Pokemon ID:  - Egg Group ID: 1
+Cadastrado - Pokemon Egg Groups | Pokemon ID:  - Egg Group ID: 2
+
+Cadastrado - Pokemon Generation | Pokemon ID: 8 - Generation ID: 1
+
+Atualizado - Pokemon | 9 - Blastoise
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 9 - Type ID: 11 - Type Order: 1
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 9 - Ability Id: 67
+Já cadastrado  - Pokemon Ability | Pokemon ID: 9 - Ability Id: 44
+
+Atualizado - Pokemon Stat | Pokemon ID: 9 - Stat ID: 1 - Base Stat: 79 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 9 - Stat ID: 2 - Base Stat: 83 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 9 - Stat ID: 3 - Base Stat: 100 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 9 - Stat ID: 4 - Base Stat: 85 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 9 - Stat ID: 5 - Base Stat: 105 - Effort: 3
+Atualizado - Pokemon Stat | Pokemon ID: 9 - Stat ID: 6 - Base Stat: 78 - Effort: 0
+
+Cadastrado - Pokemon Color | Pokemon ID:  - Color ID: 2
+
+Cadastrado - Pokemon Egg Groups | Pokemon ID:  - Egg Group ID: 1
+Cadastrado - Pokemon Egg Groups | Pokemon ID:  - Egg Group ID: 2
+
+Cadastrado - Pokemon Generation | Pokemon ID: 9 - Generation ID: 1
+
+Atualizado - Pokemon | 10 - Caterpie
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 10 - Type ID: 7 - Type Order: 1
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 10 - Ability Id: 19
+Já cadastrado  - Pokemon Ability | Pokemon ID: 10 - Ability Id: 50
+
+Atualizado - Pokemon Stat | Pokemon ID: 10 - Stat ID: 1 - Base Stat: 45 - Effort: 1
+Atualizado - Pokemon Stat | Pokemon ID: 10 - Stat ID: 2 - Base Stat: 30 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 10 - Stat ID: 3 - Base Stat: 35 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 10 - Stat ID: 4 - Base Stat: 20 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 10 - Stat ID: 5 - Base Stat: 20 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 10 - Stat ID: 6 - Base Stat: 45 - Effort: 0
+
+Cadastrado - Pokemon Color | Pokemon ID:  - Color ID: 5
+
+Cadastrado - Pokemon Egg Groups | Pokemon ID:  - Egg Group ID: 3
+
+Cadastrado - Pokemon Generation | Pokemon ID: 10 - Generation ID: 1
+
+Atualizado - Pokemon | 11 - Metapod
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 11 - Type ID: 7 - Type Order: 1
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 11 - Ability Id: 61
+
+Atualizado - Pokemon Stat | Pokemon ID: 11 - Stat ID: 1 - Base Stat: 50 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 11 - Stat ID: 2 - Base Stat: 20 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 11 - Stat ID: 3 - Base Stat: 55 - Effort: 2
+Atualizado - Pokemon Stat | Pokemon ID: 11 - Stat ID: 4 - Base Stat: 25 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 11 - Stat ID: 5 - Base Stat: 25 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 11 - Stat ID: 6 - Base Stat: 30 - Effort: 0
+
+Cadastrado - Pokemon Color | Pokemon ID:  - Color ID: 5
+
+Cadastrado - Pokemon Egg Groups | Pokemon ID:  - Egg Group ID: 3
+
+Cadastrado - Pokemon Generation | Pokemon ID: 11 - Generation ID: 1
+
+Atualizado - Pokemon | 12 - Butterfree
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 12 - Type ID: 7 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 12 - Type ID: 3 - Type Order: 2
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 12 - Ability Id: 14
+Já cadastrado  - Pokemon Ability | Pokemon ID: 12 - Ability Id: 110
+
+Atualizado - Pokemon Stat | Pokemon ID: 12 - Stat ID: 1 - Base Stat: 60 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 12 - Stat ID: 2 - Base Stat: 45 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 12 - Stat ID: 3 - Base Stat: 50 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 12 - Stat ID: 4 - Base Stat: 90 - Effort: 2
+Atualizado - Pokemon Stat | Pokemon ID: 12 - Stat ID: 5 - Base Stat: 80 - Effort: 1
+Atualizado - Pokemon Stat | Pokemon ID: 12 - Stat ID: 6 - Base Stat: 70 - Effort: 0
+
+Cadastrado - Pokemon Color | Pokemon ID:  - Color ID: 9
+
+Cadastrado - Pokemon Egg Groups | Pokemon ID:  - Egg Group ID: 3
+
+Cadastrado - Pokemon Generation | Pokemon ID: 12 - Generation ID: 1
+
+Atualizado - Pokemon | 13 - Weedle
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 13 - Type ID: 7 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 13 - Type ID: 4 - Type Order: 2
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 13 - Ability Id: 19
+Já cadastrado  - Pokemon Ability | Pokemon ID: 13 - Ability Id: 50
+
+Atualizado - Pokemon Stat | Pokemon ID: 13 - Stat ID: 1 - Base Stat: 40 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 13 - Stat ID: 2 - Base Stat: 35 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 13 - Stat ID: 3 - Base Stat: 30 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 13 - Stat ID: 4 - Base Stat: 20 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 13 - Stat ID: 5 - Base Stat: 20 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 13 - Stat ID: 6 - Base Stat: 50 - Effort: 1
+
+Cadastrado - Pokemon Color | Pokemon ID:  - Color ID: 3
+
+Cadastrado - Pokemon Egg Groups | Pokemon ID:  - Egg Group ID: 3
+
+Cadastrado - Pokemon Generation | Pokemon ID: 13 - Generation ID: 1
+
+Atualizado - Pokemon | 14 - Kakuna
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 14 - Type ID: 7 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 14 - Type ID: 4 - Type Order: 2
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 14 - Ability Id: 61
+
+Atualizado - Pokemon Stat | Pokemon ID: 14 - Stat ID: 1 - Base Stat: 45 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 14 - Stat ID: 2 - Base Stat: 25 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 14 - Stat ID: 3 - Base Stat: 50 - Effort: 2
+Atualizado - Pokemon Stat | Pokemon ID: 14 - Stat ID: 4 - Base Stat: 25 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 14 - Stat ID: 5 - Base Stat: 25 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 14 - Stat ID: 6 - Base Stat: 35 - Effort: 0
+
+Cadastrado - Pokemon Color | Pokemon ID:  - Color ID: 10
+
+Cadastrado - Pokemon Egg Groups | Pokemon ID:  - Egg Group ID: 3
+
+Cadastrado - Pokemon Generation | Pokemon ID: 14 - Generation ID: 1
+
+Atualizado - Pokemon | 15 - Beedrill
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 15 - Type ID: 7 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 15 - Type ID: 4 - Type Order: 2
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 15 - Ability Id: 68
+Já cadastrado  - Pokemon Ability | Pokemon ID: 15 - Ability Id: 97
+
+Atualizado - Pokemon Stat | Pokemon ID: 15 - Stat ID: 1 - Base Stat: 65 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 15 - Stat ID: 2 - Base Stat: 90 - Effort: 2
+Atualizado - Pokemon Stat | Pokemon ID: 15 - Stat ID: 3 - Base Stat: 40 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 15 - Stat ID: 4 - Base Stat: 45 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 15 - Stat ID: 5 - Base Stat: 80 - Effort: 1
+Atualizado - Pokemon Stat | Pokemon ID: 15 - Stat ID: 6 - Base Stat: 75 - Effort: 0
+
+Cadastrado - Pokemon Color | Pokemon ID:  - Color ID: 10
+
+Cadastrado - Pokemon Egg Groups | Pokemon ID:  - Egg Group ID: 3
+
+Cadastrado - Pokemon Generation | Pokemon ID: 15 - Generation ID: 1
+
+Atualizado - Pokemon | 16 - Pidgey
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 16 - Type ID: 1 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 16 - Type ID: 3 - Type Order: 2
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 16 - Ability Id: 51
+Já cadastrado  - Pokemon Ability | Pokemon ID: 16 - Ability Id: 77
+Já cadastrado  - Pokemon Ability | Pokemon ID: 16 - Ability Id: 145
+
+Atualizado - Pokemon Stat | Pokemon ID: 16 - Stat ID: 1 - Base Stat: 40 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 16 - Stat ID: 2 - Base Stat: 45 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 16 - Stat ID: 3 - Base Stat: 40 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 16 - Stat ID: 4 - Base Stat: 35 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 16 - Stat ID: 5 - Base Stat: 35 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 16 - Stat ID: 6 - Base Stat: 56 - Effort: 1
+
+Cadastrado - Pokemon Color | Pokemon ID:  - Color ID: 3
+
+Cadastrado - Pokemon Egg Groups | Pokemon ID:  - Egg Group ID: 4
+
+Cadastrado - Pokemon Generation | Pokemon ID: 16 - Generation ID: 1
+
+Atualizado - Pokemon | 17 - Pidgeotto
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 17 - Type ID: 1 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 17 - Type ID: 3 - Type Order: 2
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 17 - Ability Id: 51
+Já cadastrado  - Pokemon Ability | Pokemon ID: 17 - Ability Id: 77
+Já cadastrado  - Pokemon Ability | Pokemon ID: 17 - Ability Id: 145
+
+Atualizado - Pokemon Stat | Pokemon ID: 17 - Stat ID: 1 - Base Stat: 63 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 17 - Stat ID: 2 - Base Stat: 60 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 17 - Stat ID: 3 - Base Stat: 55 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 17 - Stat ID: 4 - Base Stat: 50 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 17 - Stat ID: 5 - Base Stat: 50 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 17 - Stat ID: 6 - Base Stat: 71 - Effort: 2
+
+Cadastrado - Pokemon Color | Pokemon ID:  - Color ID: 3
+
+Cadastrado - Pokemon Egg Groups | Pokemon ID:  - Egg Group ID: 4
+
+Cadastrado - Pokemon Generation | Pokemon ID: 17 - Generation ID: 1
+
+Atualizado - Pokemon | 18 - Pidgeot
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 18 - Type ID: 1 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 18 - Type ID: 3 - Type Order: 2
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 18 - Ability Id: 51
+Já cadastrado  - Pokemon Ability | Pokemon ID: 18 - Ability Id: 77
+Já cadastrado  - Pokemon Ability | Pokemon ID: 18 - Ability Id: 145
+
+Atualizado - Pokemon Stat | Pokemon ID: 18 - Stat ID: 1 - Base Stat: 83 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 18 - Stat ID: 2 - Base Stat: 80 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 18 - Stat ID: 3 - Base Stat: 75 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 18 - Stat ID: 4 - Base Stat: 70 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 18 - Stat ID: 5 - Base Stat: 70 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 18 - Stat ID: 6 - Base Stat: 101 - Effort: 3
+
+Cadastrado - Pokemon Color | Pokemon ID:  - Color ID: 3
+
+Cadastrado - Pokemon Egg Groups | Pokemon ID:  - Egg Group ID: 4
+
+Cadastrado - Pokemon Generation | Pokemon ID: 18 - Generation ID: 1
+
+Atualizado - Pokemon | 19 - Rattata
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 19 - Type ID: 1 - Type Order: 1
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 19 - Ability Id: 50
+Já cadastrado  - Pokemon Ability | Pokemon ID: 19 - Ability Id: 62
+Já cadastrado  - Pokemon Ability | Pokemon ID: 19 - Ability Id: 55
+
+Atualizado - Pokemon Stat | Pokemon ID: 19 - Stat ID: 1 - Base Stat: 30 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 19 - Stat ID: 2 - Base Stat: 56 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 19 - Stat ID: 3 - Base Stat: 35 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 19 - Stat ID: 4 - Base Stat: 25 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 19 - Stat ID: 5 - Base Stat: 35 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 19 - Stat ID: 6 - Base Stat: 72 - Effort: 1
+
+Cadastrado - Pokemon Color | Pokemon ID:  - Color ID: 7
+
+Cadastrado - Pokemon Egg Groups | Pokemon ID:  - Egg Group ID: 5
+
+Cadastrado - Pokemon Generation | Pokemon ID: 19 - Generation ID: 1
+
+Atualizado - Pokemon | 20 - Raticate
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 20 - Type ID: 1 - Type Order: 1
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 20 - Ability Id: 50
+Já cadastrado  - Pokemon Ability | Pokemon ID: 20 - Ability Id: 62
+Já cadastrado  - Pokemon Ability | Pokemon ID: 20 - Ability Id: 55
+
+Atualizado - Pokemon Stat | Pokemon ID: 20 - Stat ID: 1 - Base Stat: 55 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 20 - Stat ID: 2 - Base Stat: 81 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 20 - Stat ID: 3 - Base Stat: 60 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 20 - Stat ID: 4 - Base Stat: 50 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 20 - Stat ID: 5 - Base Stat: 70 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 20 - Stat ID: 6 - Base Stat: 97 - Effort: 2
+
+Cadastrado - Pokemon Color | Pokemon ID:  - Color ID: 3
+
+Cadastrado - Pokemon Egg Groups | Pokemon ID:  - Egg Group ID: 5
+
+Cadastrado - Pokemon Generation | Pokemon ID: 20 - Generation ID: 1
+
+Atualizado - Pokemon | 21 - Spearow
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 21 - Type ID: 1 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 21 - Type ID: 3 - Type Order: 2
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 21 - Ability Id: 51
+Já cadastrado  - Pokemon Ability | Pokemon ID: 21 - Ability Id: 97
+
+Atualizado - Pokemon Stat | Pokemon ID: 21 - Stat ID: 1 - Base Stat: 40 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 21 - Stat ID: 2 - Base Stat: 60 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 21 - Stat ID: 3 - Base Stat: 30 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 21 - Stat ID: 4 - Base Stat: 31 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 21 - Stat ID: 5 - Base Stat: 31 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 21 - Stat ID: 6 - Base Stat: 70 - Effort: 1
+
+Cadastrado - Pokemon Color | Pokemon ID:  - Color ID: 3
+
+Cadastrado - Pokemon Egg Groups | Pokemon ID:  - Egg Group ID: 4
+
+Cadastrado - Pokemon Generation | Pokemon ID: 21 - Generation ID: 1
+

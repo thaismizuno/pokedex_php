@@ -1,0 +1,244 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Pokedéx</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/album/">
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="css/pokedex.css" rel="stylesheet">
+    <link href="css/type.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <main role="main">
+      <section class="py-5 text-center container" style="background-color: lightgrey;">
+        <div class="row py-lg-5">
+          <div class="col-lg-6 col-md-8 mx-auto">
+            <h1 class="fw-light">Pokedéx</h1>
+          </div>
+        </div>
+      </section>
+      <!--section class="jumbotron text-center">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <h1 class="jumbotron-heading">Pokedéx</h1><br>
+            </div>
+          </div>
+        </div>
+      </section-->
+
+      <div class="album py-1">
+        <div class="container">
+          <div class="row">
+            <form class="row g-3">
+              <div class="col-4">
+                <label for="selectGenerations" class="form-label">Geração</label>
+                <select id="selectGenerations" class="form-select"></select>
+              </div>
+              <div class="col-4">
+                <label for="selectPrimaryType" class="form-label">Tipo Primário</label>
+                <select id="selectPrimaryType" class="form-select"></select>
+              </div>
+              <div class="col-4">
+                <label for="selectSecondaryType" class="form-label">Tipo Secundário</label>
+                <select id="selectSecondaryType" class="form-select"></select>
+              </div>
+              <!--div class="col-2">
+                <label for="selectHabitat" class="form-label">Habitat</label>
+                <select id="selectHabitat" class="form-select"></select>
+              </div>
+              <div class="col-2">
+                <label for="selectAbility" class="form-label">Habilidade</label>
+                <select id="selectAbility" class="form-select"></select>
+              </div-->
+            </form>
+          </div>
+          <div class="row">
+            <div class="col-12"><br></div></div>
+
+          <div class="row justify-content-end">
+            <div class="col-md-4">
+              <div class="input-group col-3">
+                <label class="input-group-text" for="selectOrderBy">Ordenar</label>
+                <select class="form-select" id="selectOrderBy">
+                  <option selected value="1-9">Menor número primeiro</option>
+                  <option value="9-1">Maior número primeiro</option>
+                  <option value="A-Z">A-Z</option>
+                  <option value="Z-A">Z-A</option>
+                </select>
+              </div>
+            </div>
+            <!--div class="col-md-4">
+              <div class="input-group mb-3">
+                <div class="input-group-prepend">
+                  <label class="input-group-text" for="selectOrderBy">Ordenar</label>
+                </div>
+                <select class="custom-select" id="selectOrderBy">
+                  <option selected value="1-9">Menor número primeiro</option>
+                  <option value="9-1">Maior número primeiro</option>
+                  <option value="A-Z">A-Z</option>
+                  <option value="Z-A">Z-A</option>
+                </select>
+              </div>
+            </div-->
+          </div>
+          <div class="row">
+            <div class="col-md-4" id="totais"><p>Exibindo 15 / 1080 pokemons</p></div>
+          </div>
+          <div id="pokedex" class="row"></div>
+          <nav aria-label="Navegação" id="pagination"></nav>
+        </div>
+      </div>
+
+      <!--div class="modal fade bd-example-modal-xl" tabindex="-1" role="dialog" aria-labelledby="myExtraLargeModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-xl">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="exampleModalLabel">Bulbasaur</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+              <p><strong>Altura:</strong> 7m</p>
+              <p><strong>Peso:</strong> 6.9 kg</p>
+              <p><strong>Habilidade: </strong>x, y.</p>
+              <p><strong>Tipos</strong> </p>
+              <p><strong>Estatísticas</strong><br>
+                <span>HP:</span>
+                <div class="progress">
+                  <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 10%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+                </div><br>
+                <span>HP:</span>
+                <div class="progress">
+                  <div class="progress-bar progress-bar-striped bg-success" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                </div><br>
+                <div class="progress">
+                  <div class="progress-bar progress-bar-striped bg-info" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                </div><br>
+                <div class="progress">
+                  <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                </div><br>
+                <div class="progress">
+                  <div class="progress-bar progress-bar-striped bg-danger" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                </div></p>
+              
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+          </div>
+        </div>
+      </div-->
+      <div class="modal fade bd-example-modal-lg" id="modal-mensagem">
+        <div class="modal-dialog modal-lg">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="gridModalLabel">Grids in modals</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <div class="container-fluid">
+                <div class="row">
+                  <div class="col-md-3">
+                    <img alt="Bulbasaur" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/1.svg" style="width: 150px; height: 150px;">
+                  </div>
+                  <div class="col-md-3 ms-auto">
+                    <p>
+                      <strong>Altura:</strong> 7m<br>
+                      <strong>Peso:</strong> 6.9 kg<br>
+                      <strong>Habilidade: </strong>x, y.
+                    </p>
+                    <p><strong>Tipo:</strong> </p></div>
+                </div>
+                <div class="row">
+                  <div class="col-md-12">
+                    <strong>Estatísticas</strong>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-12">
+                    <span>HP</span>
+                    <div class="progress">
+                      <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 10%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-12">
+                    <span>HP</span>
+                    <div class="progress">
+                      <div class="progress-bar progress-bar-striped bg-success" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row justify-content-md-center">
+                  <div class="col-md-3">
+                    <p class="text-center">
+                      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/1.svg" style="width: 100px; height: 100px;"><br>
+                      <strong># 0001 - Bulbasaur</strong><br>
+                      <span class="badge type-grass">Planta</span> | <span class="badge type-grass">Planta</span>
+                    </p>
+                  </div>
+                  <div class="col-1 align-self-center">
+                      <p class="text-center">></p>
+                  </div>
+                  <div class="col-md-3 ms-auto">
+                    <p class="text-center">
+                      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/2.svg" style="width: 100px; height: 100px;"><br>
+                      <strong># 0002 - Ivysaur</strong><br>
+                      <span class="badge type-grass">Planta</span> | <span class="badge type-grass">Planta</span>
+                    </p>
+                  </div>
+                  <div class="col-1 align-self-center">
+                    <p class="text-center">></p>
+                </div>
+                <div class="col-md-3 ms-auto">
+                  <p class="text-center">
+                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/3.svg" style="width: 100px; height: 100px;"><br>
+                    <strong># 0003 - Venusaur</strong><br>
+                    <span class="badge type-grass">Planta</span> | <span class="badge type-grass">Planta</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+    </main>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+    <script src="../../assets/js/vendor/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="../../assets/js/vendor/holder.min.js"></script>
+
+    <script src="js/app.list.js"></script>
+    <script src="js/app.pagination.js"></script>
+    <script src="js/app.auxiliaryFunctions.js"></script>
+    <script src="js/app.changeSelect.js"></script>
+    <script src="js/app.clickButton.js"></script>
+    <script src="js/app.types.auxiliaryFunctions.js"></script>
+    <script src="js/app.js"></script>
+
+    <script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
+  </body>
+</html>

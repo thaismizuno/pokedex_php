@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Pokedéx - Informação</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/album/">
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome/css/all.min.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="css/pokedex.css" rel="stylesheet">
+    <link href="css/type.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <main role="main">
+      <section class="py-5 text-center container" style="background-color: lightgrey;">
+        <div class="row py-lg-5">
+          <div class="col-lg-6 col-md-8 mx-auto">
+            <h1 class="fw-light">Pokedéx</h1>
+          </div>
+        </div>
+      </section>
+
+      <div class="album py-1">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12"><br></div>
+          </div>
+          <div class="row">
+            <div class="col-md-4"><p class="text-left" id="previous_pokemon"></div>
+            <div class="col-md-4"><p class="text-center"><a href="index.html" class="link-dark">Explore mais Pokemons</a></p></div>
+            <div class="col-md-4 text-right"><p class="text-end" id="next_pokemon"></div>
+          </div>
+          
+          <div class="row">
+            <div class="col-md-4" id="pokemon_image"></div>
+            <div class="col-md-8">
+              <h1 id="pokemon_name"></h1>
+              <h2 id="pokemon_generation"></h2>
+              <p id="pokemon_info"></p>
+              <p id="pokemon_habitat"></p>
+              <p id="pokemon_egg_group"></p>
+              <p id="pokemon_shape"></p>
+              <p id="pokemon_abilities"></p>
+              <p id="pokemon_gender"></p>
+              <p id="pokemon_types"></p>
+              <p id="weakness"> </p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-12"><br></div>
+          </div>
+          <div class="row">
+            <div class="col-md-12">
+              <p><strong>Estatisticas:</strong></p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-12">
+              <table class="table table-bordered text-center">
+                <thead id="stat_head"></thead>
+                <tbody id="stat_body"></tbody>
+              </table>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-12"><br></div>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+    <script src="../../assets/js/vendor/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="../../assets/js/vendor/holder.min.js"></script>
+
+    <script src="js/app.pagination.js"></script>
+    <script src="js/app.auxiliaryFunctions.js"></script>
+    <script src="js/app.changeSelect.js"></script>
+    <script src="js/app.types.auxiliaryFunctions.js"></script>
+    <!--script src="js/app.js"></script-->
+
+    <script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
+
+    <script>
+      $( document ).ready(function() {
+        const url = new URL(window.location);
+        const pokemon_id = url.searchParams.get("pokemon_id");
+        $.get( `api/pokemon_info.php?pokemon_id=${pokemon_id}`, e => {
+          const info = $.parseJSON(e)
+          const data = info.info
+
+          $('#previous_pokemon').empty().html(`<a href="?pokemon_id=${info.previous_pokemon.pokemon_id}" class="link-dark">&laquo; # ${formatNumber(info.previous_pokemon.pokemon_id)} - ${info.previous_pokemon.pokemon_name}</a>`)
+          $('#next_pokemon').empty().html(`<a href="?pokemon_id=${info.next_pokemon.pokemon_id}" class="link-dark"># ${formatNumber(info.next_pokemon.pokemon_id)} - ${info.next_pokemon.pokemon_name} &raquo;`)
+
+          $('#pokemon_image').empty().html(`<img alt="${data.pokemon_name}" src="${data.pokemon_image}" class="${data.color_name} imagem_info">`)
+          $('#pokemon_generation').empty().html(`Geração ${data.generation_name}`)
+          $('#pokemon_name').empty().html(`# ${formatNumber(data.pokemon_id)} - ${data.pokemon_name}`)
+          $('#pokemon_info').empty().html(`<strong>Altura:</strong> ${data.pokemon_height/10} m | <strong>Peso:</strong> ${data.pokemon_weight/10} kg`)
+
+          $('#pokemon_habitat').empty().html(`<strong>Habitat: </strong> ${info.habitat.portuguese_name}`)
+
+          let egg_group_list = []
+          $.each(info.egg_group, function(){
+            egg_group_list.push(`<span>${this.portuguese_name}</span>`)
+          });
+          $('#pokemon_egg_group').empty().html(`<strong>Tipo de ovos: </strong> ${egg_group_list.join(', ')}`)
+
+          $('#pokemon_shape').empty().html(`<strong>Formato: </strong> ${info.shape.portuguese_name}`)
+
+          let ability_list = []
+          $.each(info.ability, function(){
+            ability_list.push(`<span class="badge rounded-pill bg-secondary">${this.portuguese_name}</span>`)
+          });
+          $('#pokemon_abilities').empty().html(`<strong>Habilidades:</strong> ${ability_list.join(' | ')}`)
+
+          let genders_list = []
+          $.each(info.gender, function() {
+            genders_list.push(`<img src = "css/icon/${this.english_name}.svg" alt="${this.portuguese_name}" style="width: 15px; height: 15px;" /> ${this.portuguese_name}`)
+          })
+          $('#pokemon_gender').empty().html(`<strong>Gênero:</strong> ${genders_list.join(' | ')}`)
+
+          let typeList = []
+          typeList[0] = `<span class="badge rounded-pill type-${data.primary_type_english_name}">${data.primary_type_portuguese_name}</span>`
+
+          if (data.secondary_type_id != null) {
+            typeList[1] = `<span class="badge rounded-pill type-${data.secondary_type_english_name}">${data.secondary_type_portuguese_name}</span>`
+          }
+          $('#pokemon_types').empty().html(`<strong>Tipo:</strong> ${typeList.join(' | ')}`)
+
+          let stat_head = []
+          let stat_body = []
+          let total_stat = 0 
+          $.each(info.stat, function() {
+            stat_head.push(`<th>${this.portuguese_name}</th>`)
+            stat_body.push(`<td>${this.stat_base_stat}</td>`)
+            total_stat = total_stat + parseInt(this.stat_base_stat)
+          })
+
+          stat_head.push('<th>Total</th>')
+          stat_body.push(`<td><strong>${total_stat}</strong></td>`)
+
+          $('#stat_head').empty().html(`<tr>${stat_head.join('')}</tr>`)
+          $('#stat_body').empty().html(stat_body.join(''))
+        })
+      })
+    </script>
+  </body>
+</html>

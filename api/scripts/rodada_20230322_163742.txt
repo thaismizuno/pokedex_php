@@ -1,0 +1,22 @@
+Atualizado - Type | 1 - normal - Normal
+Atualizado - Type | 2 - fighting - Lutador
+Atualizado - Type | 3 - flying - Voador
+Atualizado - Type | 4 - poison - Venenoso
+Atualizado - Type | 5 - ground - Terrestre
+Atualizado - Type | 6 - rock - Pedra
+Atualizado - Type | 7 - bug - Inseto
+Atualizado - Type | 8 - ghost - Fantasma
+Atualizado - Type | 9 - steel - Metálico
+Atualizado - Type | 10 - fire - Fogo
+Atualizado - Type | 11 - water - Água
+Atualizado - Type | 12 - grass - Planta
+Atualizado - Type | 13 - electric - Elétrico
+Atualizado - Type | 14 - psychic - Psíquico
+Atualizado - Type | 15 - ice - Gelo
+Atualizado - Type | 16 - dragon - Dragão
+Atualizado - Type | 17 - dark - Sombrio
+Atualizado - Type | 18 - fairy - Fada
+Atualizado - Type | 10001 - unknown - Desconhecido
+Atualizado - Type | 10002 - shadow - Sombra
+
+

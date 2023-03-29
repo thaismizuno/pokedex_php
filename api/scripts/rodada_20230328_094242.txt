@@ -1,0 +1,262 @@
+Já cadastrado  - Pokemon Type | Pokemon ID: 1 - Type ID: 12 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 1 - Type ID: 4 - Type Order: 2
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 2 - Type ID: 12 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 2 - Type ID: 4 - Type Order: 2
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 3 - Type ID: 12 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 3 - Type ID: 4 - Type Order: 2
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 4 - Type ID: 10 - Type Order: 1
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 5 - Type ID: 10 - Type Order: 1
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 6 - Type ID: 10 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 6 - Type ID: 3 - Type Order: 2
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 7 - Type ID: 11 - Type Order: 1
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 8 - Type ID: 11 - Type Order: 1
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 9 - Type ID: 11 - Type Order: 1
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 10 - Type ID: 7 - Type Order: 1
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 11 - Type ID: 7 - Type Order: 1
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 12 - Type ID: 7 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 12 - Type ID: 3 - Type Order: 2
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 13 - Type ID: 7 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 13 - Type ID: 4 - Type Order: 2
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 14 - Type ID: 7 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 14 - Type ID: 4 - Type Order: 2
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 15 - Type ID: 7 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 15 - Type ID: 4 - Type Order: 2
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 16 - Type ID: 1 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 16 - Type ID: 3 - Type Order: 2
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 17 - Type ID: 1 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 17 - Type ID: 3 - Type Order: 2
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 18 - Type ID: 1 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 18 - Type ID: 3 - Type Order: 2
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 19 - Type ID: 1 - Type Order: 1
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 20 - Type ID: 1 - Type Order: 1
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 1 - Type ID: 12 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 1 - Type ID: 4 - Type Order: 2
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 2 - Type ID: 12 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 2 - Type ID: 4 - Type Order: 2
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 3 - Type ID: 12 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 3 - Type ID: 4 - Type Order: 2
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 4 - Type ID: 10 - Type Order: 1
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 5 - Type ID: 10 - Type Order: 1
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 6 - Type ID: 10 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 6 - Type ID: 3 - Type Order: 2
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 7 - Type ID: 11 - Type Order: 1
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 8 - Type ID: 11 - Type Order: 1
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 9 - Type ID: 11 - Type Order: 1
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 10 - Type ID: 7 - Type Order: 1
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 11 - Type ID: 7 - Type Order: 1
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 12 - Type ID: 7 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 12 - Type ID: 3 - Type Order: 2
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 13 - Type ID: 7 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 13 - Type ID: 4 - Type Order: 2
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 14 - Type ID: 7 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 14 - Type ID: 4 - Type Order: 2
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 15 - Type ID: 7 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 15 - Type ID: 4 - Type Order: 2
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 16 - Type ID: 1 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 16 - Type ID: 3 - Type Order: 2
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 17 - Type ID: 1 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 17 - Type ID: 3 - Type Order: 2
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 18 - Type ID: 1 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 18 - Type ID: 3 - Type Order: 2
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 19 - Type ID: 1 - Type Order: 1
+
+
+
+-------------------------
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 20 - Type ID: 1 - Type Order: 1
+
+
+
+-------------------------
+

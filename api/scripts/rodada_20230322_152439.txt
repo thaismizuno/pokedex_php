@@ -1,0 +1,560 @@
+
+Atualizado - Pokemon | 2 - Ivysaur
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 2 - Type ID: 12 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 2 - Type ID: 4 - Type Order: 2
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 2 - Ability Id: 65
+Já cadastrado  - Pokemon Ability | Pokemon ID: 2 - Ability Id: 34
+
+Atualizado - Pokemon Stat | Pokemon ID: 2 - Stat ID: 1 - Base Stat: 60 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 2 - Stat ID: 2 - Base Stat: 62 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 2 - Stat ID: 3 - Base Stat: 63 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 2 - Stat ID: 4 - Base Stat: 80 - Effort: 1
+Atualizado - Pokemon Stat | Pokemon ID: 2 - Stat ID: 5 - Base Stat: 80 - Effort: 1
+Atualizado - Pokemon Stat | Pokemon ID: 2 - Stat ID: 6 - Base Stat: 60 - Effort: 0
+
+Já cadastrado  - Pokemon Color | Pokemon ID: 2 - Color ID: 5
+
+Já cadastrado  - Pokemon Egg Groups | Pokemon ID: 2 - Egg Group ID: 1
+Já cadastrado  - Pokemon Egg Groups | Pokemon ID: 2 - Egg Group ID: 7
+
+Já cadastrado  - Pokemon Generation | Pokemon ID: 2 - Generation ID: 1
+
+Já cadastrado  - Pokemon Habitat | Pokemon ID: 2 - Habitat ID: 3
+
+Já cadastrado  - Pokemon Shape | Pokemon ID: 2 - Shape ID: 8
+
+
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 1 - Pokemon Id To: 2 - Pokemon Evolution: 1
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 2 - Pokemon Id To: 3 - Pokemon Evolution: 2
+Atualizado - Pokemon | 3 - Venusaur
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 3 - Type ID: 12 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 3 - Type ID: 4 - Type Order: 2
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 3 - Ability Id: 65
+Já cadastrado  - Pokemon Ability | Pokemon ID: 3 - Ability Id: 34
+
+Atualizado - Pokemon Stat | Pokemon ID: 3 - Stat ID: 1 - Base Stat: 80 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 3 - Stat ID: 2 - Base Stat: 82 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 3 - Stat ID: 3 - Base Stat: 83 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 3 - Stat ID: 4 - Base Stat: 100 - Effort: 2
+Atualizado - Pokemon Stat | Pokemon ID: 3 - Stat ID: 5 - Base Stat: 100 - Effort: 1
+Atualizado - Pokemon Stat | Pokemon ID: 3 - Stat ID: 6 - Base Stat: 80 - Effort: 0
+
+Já cadastrado  - Pokemon Color | Pokemon ID: 3 - Color ID: 5
+
+Já cadastrado  - Pokemon Egg Groups | Pokemon ID: 3 - Egg Group ID: 1
+Já cadastrado  - Pokemon Egg Groups | Pokemon ID: 3 - Egg Group ID: 7
+
+Já cadastrado  - Pokemon Generation | Pokemon ID: 3 - Generation ID: 1
+
+Já cadastrado  - Pokemon Habitat | Pokemon ID: 3 - Habitat ID: 3
+
+Já cadastrado  - Pokemon Shape | Pokemon ID: 3 - Shape ID: 8
+
+
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 1 - Pokemon Id To: 2 - Pokemon Evolution: 1
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 2 - Pokemon Id To: 3 - Pokemon Evolution: 2
+Atualizado - Pokemon | 4 - Charmander
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 4 - Type ID: 10 - Type Order: 1
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 4 - Ability Id: 66
+Já cadastrado  - Pokemon Ability | Pokemon ID: 4 - Ability Id: 94
+
+Atualizado - Pokemon Stat | Pokemon ID: 4 - Stat ID: 1 - Base Stat: 39 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 4 - Stat ID: 2 - Base Stat: 52 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 4 - Stat ID: 3 - Base Stat: 43 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 4 - Stat ID: 4 - Base Stat: 60 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 4 - Stat ID: 5 - Base Stat: 50 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 4 - Stat ID: 6 - Base Stat: 65 - Effort: 1
+
+Já cadastrado  - Pokemon Color | Pokemon ID: 4 - Color ID: 8
+
+Já cadastrado  - Pokemon Egg Groups | Pokemon ID: 4 - Egg Group ID: 1
+Já cadastrado  - Pokemon Egg Groups | Pokemon ID: 4 - Egg Group ID: 14
+
+Já cadastrado  - Pokemon Generation | Pokemon ID: 4 - Generation ID: 1
+
+Já cadastrado  - Pokemon Habitat | Pokemon ID: 4 - Habitat ID: 4
+
+Já cadastrado  - Pokemon Shape | Pokemon ID: 4 - Shape ID: 6
+
+
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 4 - Pokemon Id To: 5 - Pokemon Evolution: 1
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 5 - Pokemon Id To: 6 - Pokemon Evolution: 2
+Atualizado - Pokemon | 5 - Charmeleon
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 5 - Type ID: 10 - Type Order: 1
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 5 - Ability Id: 66
+Já cadastrado  - Pokemon Ability | Pokemon ID: 5 - Ability Id: 94
+
+Atualizado - Pokemon Stat | Pokemon ID: 5 - Stat ID: 1 - Base Stat: 58 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 5 - Stat ID: 2 - Base Stat: 64 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 5 - Stat ID: 3 - Base Stat: 58 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 5 - Stat ID: 4 - Base Stat: 80 - Effort: 1
+Atualizado - Pokemon Stat | Pokemon ID: 5 - Stat ID: 5 - Base Stat: 65 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 5 - Stat ID: 6 - Base Stat: 80 - Effort: 1
+
+Já cadastrado  - Pokemon Color | Pokemon ID: 5 - Color ID: 8
+
+Já cadastrado  - Pokemon Egg Groups | Pokemon ID: 5 - Egg Group ID: 1
+Já cadastrado  - Pokemon Egg Groups | Pokemon ID: 5 - Egg Group ID: 14
+
+Já cadastrado  - Pokemon Generation | Pokemon ID: 5 - Generation ID: 1
+
+Já cadastrado  - Pokemon Habitat | Pokemon ID: 5 - Habitat ID: 4
+
+Já cadastrado  - Pokemon Shape | Pokemon ID: 5 - Shape ID: 6
+
+
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 4 - Pokemon Id To: 5 - Pokemon Evolution: 1
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 5 - Pokemon Id To: 6 - Pokemon Evolution: 2
+Atualizado - Pokemon | 6 - Charizard
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 6 - Type ID: 10 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 6 - Type ID: 3 - Type Order: 2
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 6 - Ability Id: 66
+Já cadastrado  - Pokemon Ability | Pokemon ID: 6 - Ability Id: 94
+
+Atualizado - Pokemon Stat | Pokemon ID: 6 - Stat ID: 1 - Base Stat: 78 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 6 - Stat ID: 2 - Base Stat: 84 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 6 - Stat ID: 3 - Base Stat: 78 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 6 - Stat ID: 4 - Base Stat: 109 - Effort: 3
+Atualizado - Pokemon Stat | Pokemon ID: 6 - Stat ID: 5 - Base Stat: 85 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 6 - Stat ID: 6 - Base Stat: 100 - Effort: 0
+
+Já cadastrado  - Pokemon Color | Pokemon ID: 6 - Color ID: 8
+
+Já cadastrado  - Pokemon Egg Groups | Pokemon ID: 6 - Egg Group ID: 1
+Já cadastrado  - Pokemon Egg Groups | Pokemon ID: 6 - Egg Group ID: 14
+
+Já cadastrado  - Pokemon Generation | Pokemon ID: 6 - Generation ID: 1
+
+Já cadastrado  - Pokemon Habitat | Pokemon ID: 6 - Habitat ID: 4
+
+Já cadastrado  - Pokemon Shape | Pokemon ID: 6 - Shape ID: 6
+
+
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 4 - Pokemon Id To: 5 - Pokemon Evolution: 1
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 5 - Pokemon Id To: 6 - Pokemon Evolution: 2
+Atualizado - Pokemon | 7 - Squirtle
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 7 - Type ID: 11 - Type Order: 1
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 7 - Ability Id: 67
+Já cadastrado  - Pokemon Ability | Pokemon ID: 7 - Ability Id: 44
+
+Atualizado - Pokemon Stat | Pokemon ID: 7 - Stat ID: 1 - Base Stat: 44 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 7 - Stat ID: 2 - Base Stat: 48 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 7 - Stat ID: 3 - Base Stat: 65 - Effort: 1
+Atualizado - Pokemon Stat | Pokemon ID: 7 - Stat ID: 4 - Base Stat: 50 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 7 - Stat ID: 5 - Base Stat: 64 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 7 - Stat ID: 6 - Base Stat: 43 - Effort: 0
+
+Já cadastrado  - Pokemon Color | Pokemon ID: 7 - Color ID: 2
+
+Já cadastrado  - Pokemon Egg Groups | Pokemon ID: 7 - Egg Group ID: 1
+Já cadastrado  - Pokemon Egg Groups | Pokemon ID: 7 - Egg Group ID: 2
+
+Já cadastrado  - Pokemon Generation | Pokemon ID: 7 - Generation ID: 1
+
+Já cadastrado  - Pokemon Habitat | Pokemon ID: 7 - Habitat ID: 9
+
+Já cadastrado  - Pokemon Shape | Pokemon ID: 7 - Shape ID: 6
+
+
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 7 - Pokemon Id To: 8 - Pokemon Evolution: 1
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 8 - Pokemon Id To: 9 - Pokemon Evolution: 2
+Atualizado - Pokemon | 8 - Wartortle
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 8 - Type ID: 11 - Type Order: 1
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 8 - Ability Id: 67
+Já cadastrado  - Pokemon Ability | Pokemon ID: 8 - Ability Id: 44
+
+Atualizado - Pokemon Stat | Pokemon ID: 8 - Stat ID: 1 - Base Stat: 59 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 8 - Stat ID: 2 - Base Stat: 63 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 8 - Stat ID: 3 - Base Stat: 80 - Effort: 1
+Atualizado - Pokemon Stat | Pokemon ID: 8 - Stat ID: 4 - Base Stat: 65 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 8 - Stat ID: 5 - Base Stat: 80 - Effort: 1
+Atualizado - Pokemon Stat | Pokemon ID: 8 - Stat ID: 6 - Base Stat: 58 - Effort: 0
+
+Já cadastrado  - Pokemon Color | Pokemon ID: 8 - Color ID: 2
+
+Já cadastrado  - Pokemon Egg Groups | Pokemon ID: 8 - Egg Group ID: 1
+Já cadastrado  - Pokemon Egg Groups | Pokemon ID: 8 - Egg Group ID: 2
+
+Já cadastrado  - Pokemon Generation | Pokemon ID: 8 - Generation ID: 1
+
+Já cadastrado  - Pokemon Habitat | Pokemon ID: 8 - Habitat ID: 9
+
+Já cadastrado  - Pokemon Shape | Pokemon ID: 8 - Shape ID: 6
+
+
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 7 - Pokemon Id To: 8 - Pokemon Evolution: 1
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 8 - Pokemon Id To: 9 - Pokemon Evolution: 2
+Atualizado - Pokemon | 9 - Blastoise
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 9 - Type ID: 11 - Type Order: 1
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 9 - Ability Id: 67
+Já cadastrado  - Pokemon Ability | Pokemon ID: 9 - Ability Id: 44
+
+Atualizado - Pokemon Stat | Pokemon ID: 9 - Stat ID: 1 - Base Stat: 79 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 9 - Stat ID: 2 - Base Stat: 83 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 9 - Stat ID: 3 - Base Stat: 100 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 9 - Stat ID: 4 - Base Stat: 85 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 9 - Stat ID: 5 - Base Stat: 105 - Effort: 3
+Atualizado - Pokemon Stat | Pokemon ID: 9 - Stat ID: 6 - Base Stat: 78 - Effort: 0
+
+Já cadastrado  - Pokemon Color | Pokemon ID: 9 - Color ID: 2
+
+Já cadastrado  - Pokemon Egg Groups | Pokemon ID: 9 - Egg Group ID: 1
+Já cadastrado  - Pokemon Egg Groups | Pokemon ID: 9 - Egg Group ID: 2
+
+Já cadastrado  - Pokemon Generation | Pokemon ID: 9 - Generation ID: 1
+
+Já cadastrado  - Pokemon Habitat | Pokemon ID: 9 - Habitat ID: 9
+
+Já cadastrado  - Pokemon Shape | Pokemon ID: 9 - Shape ID: 6
+
+
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 7 - Pokemon Id To: 8 - Pokemon Evolution: 1
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 8 - Pokemon Id To: 9 - Pokemon Evolution: 2
+Atualizado - Pokemon | 10 - Caterpie
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 10 - Type ID: 7 - Type Order: 1
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 10 - Ability Id: 19
+Já cadastrado  - Pokemon Ability | Pokemon ID: 10 - Ability Id: 50
+
+Atualizado - Pokemon Stat | Pokemon ID: 10 - Stat ID: 1 - Base Stat: 45 - Effort: 1
+Atualizado - Pokemon Stat | Pokemon ID: 10 - Stat ID: 2 - Base Stat: 30 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 10 - Stat ID: 3 - Base Stat: 35 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 10 - Stat ID: 4 - Base Stat: 20 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 10 - Stat ID: 5 - Base Stat: 20 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 10 - Stat ID: 6 - Base Stat: 45 - Effort: 0
+
+Já cadastrado  - Pokemon Color | Pokemon ID: 10 - Color ID: 5
+
+Já cadastrado  - Pokemon Egg Groups | Pokemon ID: 10 - Egg Group ID: 3
+
+Já cadastrado  - Pokemon Generation | Pokemon ID: 10 - Generation ID: 1
+
+Já cadastrado  - Pokemon Habitat | Pokemon ID: 10 - Habitat ID: 2
+
+Já cadastrado  - Pokemon Shape | Pokemon ID: 10 - Shape ID: 14
+
+
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 10 - Pokemon Id To: 11 - Pokemon Evolution: 1
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 11 - Pokemon Id To: 12 - Pokemon Evolution: 2
+Atualizado - Pokemon | 11 - Metapod
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 11 - Type ID: 7 - Type Order: 1
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 11 - Ability Id: 61
+
+Atualizado - Pokemon Stat | Pokemon ID: 11 - Stat ID: 1 - Base Stat: 50 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 11 - Stat ID: 2 - Base Stat: 20 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 11 - Stat ID: 3 - Base Stat: 55 - Effort: 2
+Atualizado - Pokemon Stat | Pokemon ID: 11 - Stat ID: 4 - Base Stat: 25 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 11 - Stat ID: 5 - Base Stat: 25 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 11 - Stat ID: 6 - Base Stat: 30 - Effort: 0
+
+Já cadastrado  - Pokemon Color | Pokemon ID: 11 - Color ID: 5
+
+Já cadastrado  - Pokemon Egg Groups | Pokemon ID: 11 - Egg Group ID: 3
+
+Já cadastrado  - Pokemon Generation | Pokemon ID: 11 - Generation ID: 1
+
+Já cadastrado  - Pokemon Habitat | Pokemon ID: 11 - Habitat ID: 2
+
+Já cadastrado  - Pokemon Shape | Pokemon ID: 11 - Shape ID: 2
+
+
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 10 - Pokemon Id To: 11 - Pokemon Evolution: 1
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 11 - Pokemon Id To: 12 - Pokemon Evolution: 2
+Atualizado - Pokemon | 12 - Butterfree
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 12 - Type ID: 7 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 12 - Type ID: 3 - Type Order: 2
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 12 - Ability Id: 14
+Já cadastrado  - Pokemon Ability | Pokemon ID: 12 - Ability Id: 110
+
+Atualizado - Pokemon Stat | Pokemon ID: 12 - Stat ID: 1 - Base Stat: 60 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 12 - Stat ID: 2 - Base Stat: 45 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 12 - Stat ID: 3 - Base Stat: 50 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 12 - Stat ID: 4 - Base Stat: 90 - Effort: 2
+Atualizado - Pokemon Stat | Pokemon ID: 12 - Stat ID: 5 - Base Stat: 80 - Effort: 1
+Atualizado - Pokemon Stat | Pokemon ID: 12 - Stat ID: 6 - Base Stat: 70 - Effort: 0
+
+Já cadastrado  - Pokemon Color | Pokemon ID: 12 - Color ID: 9
+
+Já cadastrado  - Pokemon Egg Groups | Pokemon ID: 12 - Egg Group ID: 3
+
+Já cadastrado  - Pokemon Generation | Pokemon ID: 12 - Generation ID: 1
+
+Já cadastrado  - Pokemon Habitat | Pokemon ID: 12 - Habitat ID: 2
+
+Já cadastrado  - Pokemon Shape | Pokemon ID: 12 - Shape ID: 13
+
+
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 10 - Pokemon Id To: 11 - Pokemon Evolution: 1
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 11 - Pokemon Id To: 12 - Pokemon Evolution: 2
+Atualizado - Pokemon | 13 - Weedle
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 13 - Type ID: 7 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 13 - Type ID: 4 - Type Order: 2
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 13 - Ability Id: 19
+Já cadastrado  - Pokemon Ability | Pokemon ID: 13 - Ability Id: 50
+
+Atualizado - Pokemon Stat | Pokemon ID: 13 - Stat ID: 1 - Base Stat: 40 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 13 - Stat ID: 2 - Base Stat: 35 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 13 - Stat ID: 3 - Base Stat: 30 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 13 - Stat ID: 4 - Base Stat: 20 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 13 - Stat ID: 5 - Base Stat: 20 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 13 - Stat ID: 6 - Base Stat: 50 - Effort: 1
+
+Já cadastrado  - Pokemon Color | Pokemon ID: 13 - Color ID: 3
+
+Já cadastrado  - Pokemon Egg Groups | Pokemon ID: 13 - Egg Group ID: 3
+
+Já cadastrado  - Pokemon Generation | Pokemon ID: 13 - Generation ID: 1
+
+Já cadastrado  - Pokemon Habitat | Pokemon ID: 13 - Habitat ID: 2
+
+Já cadastrado  - Pokemon Shape | Pokemon ID: 13 - Shape ID: 14
+
+
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 13 - Pokemon Id To: 14 - Pokemon Evolution: 1
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 14 - Pokemon Id To: 15 - Pokemon Evolution: 2
+Atualizado - Pokemon | 14 - Kakuna
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 14 - Type ID: 7 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 14 - Type ID: 4 - Type Order: 2
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 14 - Ability Id: 61
+
+Atualizado - Pokemon Stat | Pokemon ID: 14 - Stat ID: 1 - Base Stat: 45 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 14 - Stat ID: 2 - Base Stat: 25 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 14 - Stat ID: 3 - Base Stat: 50 - Effort: 2
+Atualizado - Pokemon Stat | Pokemon ID: 14 - Stat ID: 4 - Base Stat: 25 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 14 - Stat ID: 5 - Base Stat: 25 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 14 - Stat ID: 6 - Base Stat: 35 - Effort: 0
+
+Já cadastrado  - Pokemon Color | Pokemon ID: 14 - Color ID: 10
+
+Já cadastrado  - Pokemon Egg Groups | Pokemon ID: 14 - Egg Group ID: 3
+
+Já cadastrado  - Pokemon Generation | Pokemon ID: 14 - Generation ID: 1
+
+Já cadastrado  - Pokemon Habitat | Pokemon ID: 14 - Habitat ID: 2
+
+Já cadastrado  - Pokemon Shape | Pokemon ID: 14 - Shape ID: 2
+
+
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 13 - Pokemon Id To: 14 - Pokemon Evolution: 1
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 14 - Pokemon Id To: 15 - Pokemon Evolution: 2
+Atualizado - Pokemon | 15 - Beedrill
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 15 - Type ID: 7 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 15 - Type ID: 4 - Type Order: 2
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 15 - Ability Id: 68
+Já cadastrado  - Pokemon Ability | Pokemon ID: 15 - Ability Id: 97
+
+Atualizado - Pokemon Stat | Pokemon ID: 15 - Stat ID: 1 - Base Stat: 65 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 15 - Stat ID: 2 - Base Stat: 90 - Effort: 2
+Atualizado - Pokemon Stat | Pokemon ID: 15 - Stat ID: 3 - Base Stat: 40 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 15 - Stat ID: 4 - Base Stat: 45 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 15 - Stat ID: 5 - Base Stat: 80 - Effort: 1
+Atualizado - Pokemon Stat | Pokemon ID: 15 - Stat ID: 6 - Base Stat: 75 - Effort: 0
+
+Já cadastrado  - Pokemon Color | Pokemon ID: 15 - Color ID: 10
+
+Já cadastrado  - Pokemon Egg Groups | Pokemon ID: 15 - Egg Group ID: 3
+
+Já cadastrado  - Pokemon Generation | Pokemon ID: 15 - Generation ID: 1
+
+Já cadastrado  - Pokemon Habitat | Pokemon ID: 15 - Habitat ID: 2
+
+Já cadastrado  - Pokemon Shape | Pokemon ID: 15 - Shape ID: 13
+
+
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 13 - Pokemon Id To: 14 - Pokemon Evolution: 1
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 14 - Pokemon Id To: 15 - Pokemon Evolution: 2
+Atualizado - Pokemon | 16 - Pidgey
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 16 - Type ID: 1 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 16 - Type ID: 3 - Type Order: 2
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 16 - Ability Id: 51
+Já cadastrado  - Pokemon Ability | Pokemon ID: 16 - Ability Id: 77
+Já cadastrado  - Pokemon Ability | Pokemon ID: 16 - Ability Id: 145
+
+Atualizado - Pokemon Stat | Pokemon ID: 16 - Stat ID: 1 - Base Stat: 40 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 16 - Stat ID: 2 - Base Stat: 45 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 16 - Stat ID: 3 - Base Stat: 40 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 16 - Stat ID: 4 - Base Stat: 35 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 16 - Stat ID: 5 - Base Stat: 35 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 16 - Stat ID: 6 - Base Stat: 56 - Effort: 1
+
+Já cadastrado  - Pokemon Color | Pokemon ID: 16 - Color ID: 3
+
+Já cadastrado  - Pokemon Egg Groups | Pokemon ID: 16 - Egg Group ID: 4
+
+Já cadastrado  - Pokemon Generation | Pokemon ID: 16 - Generation ID: 1
+
+Já cadastrado  - Pokemon Habitat | Pokemon ID: 16 - Habitat ID: 2
+
+Já cadastrado  - Pokemon Shape | Pokemon ID: 16 - Shape ID: 9
+
+
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 16 - Pokemon Id To: 17 - Pokemon Evolution: 1
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 17 - Pokemon Id To: 18 - Pokemon Evolution: 2
+Atualizado - Pokemon | 17 - Pidgeotto
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 17 - Type ID: 1 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 17 - Type ID: 3 - Type Order: 2
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 17 - Ability Id: 51
+Já cadastrado  - Pokemon Ability | Pokemon ID: 17 - Ability Id: 77
+Já cadastrado  - Pokemon Ability | Pokemon ID: 17 - Ability Id: 145
+
+Atualizado - Pokemon Stat | Pokemon ID: 17 - Stat ID: 1 - Base Stat: 63 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 17 - Stat ID: 2 - Base Stat: 60 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 17 - Stat ID: 3 - Base Stat: 55 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 17 - Stat ID: 4 - Base Stat: 50 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 17 - Stat ID: 5 - Base Stat: 50 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 17 - Stat ID: 6 - Base Stat: 71 - Effort: 2
+
+Já cadastrado  - Pokemon Color | Pokemon ID: 17 - Color ID: 3
+
+Já cadastrado  - Pokemon Egg Groups | Pokemon ID: 17 - Egg Group ID: 4
+
+Já cadastrado  - Pokemon Generation | Pokemon ID: 17 - Generation ID: 1
+
+Já cadastrado  - Pokemon Habitat | Pokemon ID: 17 - Habitat ID: 2
+
+Já cadastrado  - Pokemon Shape | Pokemon ID: 17 - Shape ID: 9
+
+
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 16 - Pokemon Id To: 17 - Pokemon Evolution: 1
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 17 - Pokemon Id To: 18 - Pokemon Evolution: 2
+Atualizado - Pokemon | 18 - Pidgeot
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 18 - Type ID: 1 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 18 - Type ID: 3 - Type Order: 2
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 18 - Ability Id: 51
+Já cadastrado  - Pokemon Ability | Pokemon ID: 18 - Ability Id: 77
+Já cadastrado  - Pokemon Ability | Pokemon ID: 18 - Ability Id: 145
+
+Atualizado - Pokemon Stat | Pokemon ID: 18 - Stat ID: 1 - Base Stat: 83 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 18 - Stat ID: 2 - Base Stat: 80 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 18 - Stat ID: 3 - Base Stat: 75 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 18 - Stat ID: 4 - Base Stat: 70 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 18 - Stat ID: 5 - Base Stat: 70 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 18 - Stat ID: 6 - Base Stat: 101 - Effort: 3
+
+Já cadastrado  - Pokemon Color | Pokemon ID: 18 - Color ID: 3
+
+Já cadastrado  - Pokemon Egg Groups | Pokemon ID: 18 - Egg Group ID: 4
+
+Já cadastrado  - Pokemon Generation | Pokemon ID: 18 - Generation ID: 1
+
+Já cadastrado  - Pokemon Habitat | Pokemon ID: 18 - Habitat ID: 2
+
+Já cadastrado  - Pokemon Shape | Pokemon ID: 18 - Shape ID: 9
+
+
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 16 - Pokemon Id To: 17 - Pokemon Evolution: 1
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 17 - Pokemon Id To: 18 - Pokemon Evolution: 2
+Atualizado - Pokemon | 19 - Rattata
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 19 - Type ID: 1 - Type Order: 1
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 19 - Ability Id: 50
+Já cadastrado  - Pokemon Ability | Pokemon ID: 19 - Ability Id: 62
+Já cadastrado  - Pokemon Ability | Pokemon ID: 19 - Ability Id: 55
+
+Atualizado - Pokemon Stat | Pokemon ID: 19 - Stat ID: 1 - Base Stat: 30 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 19 - Stat ID: 2 - Base Stat: 56 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 19 - Stat ID: 3 - Base Stat: 35 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 19 - Stat ID: 4 - Base Stat: 25 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 19 - Stat ID: 5 - Base Stat: 35 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 19 - Stat ID: 6 - Base Stat: 72 - Effort: 1
+
+Já cadastrado  - Pokemon Color | Pokemon ID: 19 - Color ID: 7
+
+Já cadastrado  - Pokemon Egg Groups | Pokemon ID: 19 - Egg Group ID: 5
+
+Já cadastrado  - Pokemon Generation | Pokemon ID: 19 - Generation ID: 1
+
+Já cadastrado  - Pokemon Habitat | Pokemon ID: 19 - Habitat ID: 3
+
+Já cadastrado  - Pokemon Shape | Pokemon ID: 19 - Shape ID: 8
+
+
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 19 - Pokemon Id To: 20 - Pokemon Evolution: 1
+Atualizado - Pokemon | 20 - Raticate
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 20 - Type ID: 1 - Type Order: 1
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 20 - Ability Id: 50
+Já cadastrado  - Pokemon Ability | Pokemon ID: 20 - Ability Id: 62
+Já cadastrado  - Pokemon Ability | Pokemon ID: 20 - Ability Id: 55
+
+Atualizado - Pokemon Stat | Pokemon ID: 20 - Stat ID: 1 - Base Stat: 55 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 20 - Stat ID: 2 - Base Stat: 81 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 20 - Stat ID: 3 - Base Stat: 60 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 20 - Stat ID: 4 - Base Stat: 50 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 20 - Stat ID: 5 - Base Stat: 70 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 20 - Stat ID: 6 - Base Stat: 97 - Effort: 2
+
+Já cadastrado  - Pokemon Color | Pokemon ID: 20 - Color ID: 3
+
+Já cadastrado  - Pokemon Egg Groups | Pokemon ID: 20 - Egg Group ID: 5
+
+Já cadastrado  - Pokemon Generation | Pokemon ID: 20 - Generation ID: 1
+
+Já cadastrado  - Pokemon Habitat | Pokemon ID: 20 - Habitat ID: 3
+
+Já cadastrado  - Pokemon Shape | Pokemon ID: 20 - Shape ID: 8
+
+
+Próximo pokemon não está cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 19 - Pokemon Id To: 20 - Pokemon Evolution: 1
+Atualizado - Pokemon | 21 - Spearow
+
+Já cadastrado  - Pokemon Type | Pokemon ID: 21 - Type ID: 1 - Type Order: 1
+Já cadastrado  - Pokemon Type | Pokemon ID: 21 - Type ID: 3 - Type Order: 2
+
+Já cadastrado  - Pokemon Ability | Pokemon ID: 21 - Ability Id: 51
+Já cadastrado  - Pokemon Ability | Pokemon ID: 21 - Ability Id: 97
+
+Atualizado - Pokemon Stat | Pokemon ID: 21 - Stat ID: 1 - Base Stat: 40 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 21 - Stat ID: 2 - Base Stat: 60 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 21 - Stat ID: 3 - Base Stat: 30 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 21 - Stat ID: 4 - Base Stat: 31 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 21 - Stat ID: 5 - Base Stat: 31 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 21 - Stat ID: 6 - Base Stat: 70 - Effort: 1
+
+Já cadastrado  - Pokemon Color | Pokemon ID: 21 - Color ID: 3
+
+Já cadastrado  - Pokemon Egg Groups | Pokemon ID: 21 - Egg Group ID: 4
+
+Já cadastrado  - Pokemon Generation | Pokemon ID: 21 - Generation ID: 1
+
+Já cadastrado  - Pokemon Habitat | Pokemon ID: 21 - Habitat ID: 6
+
+Já cadastrado  - Pokemon Shape | Pokemon ID: 21 - Shape ID: 9
+
+
+Erro ao cadastrar - Pokemon Evolution Chain | Pokemon ID From: 21 - Pokemon Id To: 22 - Pokemon Evolution: 1

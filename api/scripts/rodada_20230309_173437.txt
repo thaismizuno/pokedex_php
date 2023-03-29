@@ -1,0 +1,20 @@
+Atualizado - Pokemon | 995 - Iron-thorns
+
+Atualizado - Pokemon Ability | Pokemon ID: 995 - Ability Id: 282 - Is True: 0
+Atualizado - Pokemon Ability | Pokemon ID: 995 - Ability Id: 282 - Is True: 1
+
+Atualizado - Pokemon Stat | Pokemon ID: 995 - Stat ID: 1 - Base Stat: 100 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 995 - Stat ID: 2 - Base Stat: 134 - Effort: 3
+Atualizado - Pokemon Stat | Pokemon ID: 995 - Stat ID: 3 - Base Stat: 110 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 995 - Stat ID: 4 - Base Stat: 70 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 995 - Stat ID: 5 - Base Stat: 84 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 995 - Stat ID: 6 - Base Stat: 72 - Effort: 0
+
+Já cadastrado  - Pokemon Color | Pokemon ID: 995 - Color ID: 5
+
+
+Já cadastrado  - Pokemon Generation | Pokemon ID: 995 - Generation ID: 9
+
+
+-------------------------
+

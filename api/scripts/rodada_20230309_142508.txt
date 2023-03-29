@@ -1,0 +1,50 @@
+Atualizado - Pokemon | 995 - Iron-thorns
+
+Atualizado - Pokemon Ability | Pokemon ID: 995 - Ability Id: 282 - Is True: 0
+Atualizado - Pokemon Ability | Pokemon ID: 995 - Ability Id: 282 - Is True: 1
+
+Atualizado - Pokemon Stat | Pokemon ID: 995 - Stat ID: 1 - Base Stat: 100 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 995 - Stat ID: 2 - Base Stat: 134 - Effort: 3
+Atualizado - Pokemon Stat | Pokemon ID: 995 - Stat ID: 3 - Base Stat: 110 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 995 - Stat ID: 4 - Base Stat: 70 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 995 - Stat ID: 5 - Base Stat: 84 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 995 - Stat ID: 6 - Base Stat: 72 - Effort: 0
+
+Já cadastrado  - Pokemon Color | Pokemon ID: 995 - Color ID: 5
+
+
+Já cadastrado  - Pokemon Generation | Pokemon ID: 995 - Generation ID: 9
+
+Erro ao cadastrar - Pokemon Habitat | Pokemon ID: 995 - Habitat ID: 0
+
+Já cadastrado  - Pokemon Shape | Pokemon ID: 995 - Shape ID: 0
+
+
+-------------------------
+
+Atualizado - Pokemon | 996 - Frigibax
+
+Atualizado - Pokemon Ability | Pokemon ID: 996 - Ability Id: 270 - Is True: 0
+Atualizado - Pokemon Ability | Pokemon ID: 996 - Ability Id: 115 - Is True: 1
+
+Atualizado - Pokemon Stat | Pokemon ID: 996 - Stat ID: 1 - Base Stat: 65 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 996 - Stat ID: 2 - Base Stat: 75 - Effort: 1
+Atualizado - Pokemon Stat | Pokemon ID: 996 - Stat ID: 3 - Base Stat: 45 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 996 - Stat ID: 4 - Base Stat: 35 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 996 - Stat ID: 5 - Base Stat: 45 - Effort: 0
+Atualizado - Pokemon Stat | Pokemon ID: 996 - Stat ID: 6 - Base Stat: 55 - Effort: 0
+
+Já cadastrado  - Pokemon Color | Pokemon ID: 996 - Color ID: 4
+
+
+Já cadastrado  - Pokemon Generation | Pokemon ID: 996 - Generation ID: 9
+
+Erro ao cadastrar - Pokemon Habitat | Pokemon ID: 996 - Habitat ID: 0
+
+Já cadastrado  - Pokemon Shape | Pokemon ID: 996 - Shape ID: 0
+
+Já cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 996 - Pokemon Id To: 997 - Pokemon Evolution: 1
+Já cadastrado  - Pokemon Evolution Chain | Pokemon ID From: 997 - Pokemon Id To: 998 - Pokemon Evolution: 2
+
+-------------------------
+

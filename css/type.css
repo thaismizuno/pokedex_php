@@ -1,0 +1,28 @@
+.type-bug { background-color: #729f3f; }
+.type-dark { background-color: gray; }
+.type-dragon { background-color: #700AEE; }
+.type-electric { background-color: #eed535; }
+
+.type-fairy { background-color: #EE99AC; }
+.type-fighting { background-color: #d56723; }
+.type-fire { background-color: #F08030; }
+.type-flying { background-color: #A890F0; }
+
+.type-ghost { background-color: #7b62a3; }
+.type-grass { background-color: #2DCD45; }
+.type-ground { background-color: #E0C068; }
+.type-ice { background-color: #51c4e7; }
+
+.type-normal { background-color: #a4acaf; }
+.type-poison { background-color: #883688; }
+.type-psychic { background-color: #f366b9; }
+.type-rock { background-color: #a38c21; }
+
+.type-steel { background-color: #9eb7b8; }
+.type-water { background-color: #4592c4; }
+
+.type-bug a, .type-dark a, .type-dragon a, .type-electric a,
+.type-fairy a, .type-fighting a, .type-fire a, .type-flying a,
+.type-ghost a, .type-grass a, .type-ground a, .type-ice a,
+.type-normal a, .type-poison a, .type-psychic a, .type-rock a,
+.type-steel a, .type-water a { color: #FFFFFF; }
